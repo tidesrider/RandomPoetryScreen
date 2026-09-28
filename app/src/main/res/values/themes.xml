@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Dev_RandomPoetryScreen" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/geek_bg</item>
+        <item name="android:colorBackground">@color/geek_bg</item>
+        <item name="android:statusBarColor">@color/geek_bg</item>
+        <item name="android:navigationBarColor">@color/geek_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

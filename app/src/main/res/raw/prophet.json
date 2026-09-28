@@ -1,0 +1,7511 @@
+{
+  "version": "1.0",
+  "anthologies": [
+    {
+      "id": "default-anthology-prophet",
+      "name": "无害预言",
+      "entries": [
+        {
+          "id": "prophet-entry-0001",
+          "type": "LINE",
+          "content": "请把今早喝剩的那口凉水，倒进一株你最不喜欢的植物里。"
+        },
+        {
+          "id": "prophet-entry-0002",
+          "type": "LINE",
+          "content": "下周五，你会在一扇自动门前，和它同时犹豫。"
+        },
+        {
+          "id": "prophet-entry-0003",
+          "type": "LINE",
+          "content": "请在下一次系鞋带时，用左边的绳子绕过右边的空气。"
+        },
+        {
+          "id": "prophet-entry-0004",
+          "type": "LINE",
+          "content": "某天傍晚，你会记住一片叶子掉落时转动的圈数。"
+        },
+        {
+          "id": "prophet-entry-0005",
+          "type": "LINE",
+          "content": "请在打开台灯前，对它说一声“再亮一点也没关系”。"
+        },
+        {
+          "id": "prophet-entry-0006",
+          "type": "LINE",
+          "content": "后天早上，你的牙刷会短暂地梦见薄荷。"
+        },
+        {
+          "id": "prophet-entry-0007",
+          "type": "LINE",
+          "content": "请把昨天从口袋里掏出的那张小票，折成一架不会降落的飞机。"
+        },
+        {
+          "id": "prophet-entry-0008",
+          "type": "LINE",
+          "content": "三日后，你会发现自己能听见冰块在杯底翻身。"
+        },
+        {
+          "id": "prophet-entry-0009",
+          "type": "LINE",
+          "content": "请在下个路口，用脚尖轻轻数到五，然后直走。"
+        },
+        {
+          "id": "prophet-entry-0010",
+          "type": "LINE",
+          "content": "某个深夜，你会突然原谅一种很吵的鸟。"
+        },
+        {
+          "id": "prophet-entry-0011",
+          "type": "LINE",
+          "content": "请把右手手心里今天积下的空气，放进一个空火柴盒。"
+        },
+        {
+          "id": "prophet-entry-0012",
+          "type": "LINE",
+          "content": "下个月初，你会在电梯里遇见一个只按顶楼的人，你们都不会说话。"
+        },
+        {
+          "id": "prophet-entry-0013",
+          "type": "LINE",
+          "content": "请在拉开窗帘时，用两根手指替玻璃擦去一小片雾。"
+        },
+        {
+          "id": "prophet-entry-0014",
+          "type": "LINE",
+          "content": "明天，你会两次把同一个词写在不同的纸上，然后忘了它。"
+        },
+        {
+          "id": "prophet-entry-0015",
+          "type": "LINE",
+          "content": "请把煮好的米饭最中间挖出一小勺，放凉后给它听一首歌。"
+        },
+        {
+          "id": "prophet-entry-0016",
+          "type": "LINE",
+          "content": "未来某天，你会对着冰箱里的灯光说“谢谢”，虽然它没做什么。"
+        },
+        {
+          "id": "prophet-entry-0017",
+          "type": "LINE",
+          "content": "请在下雨前，把窗台上那枚松果翻个面。"
+        },
+        {
+          "id": "prophet-entry-0018",
+          "type": "LINE",
+          "content": "某次打哈欠时，你会短暂听见自己耳朵里有一片海。"
+        },
+        {
+          "id": "prophet-entry-0019",
+          "type": "LINE",
+          "content": "请把袜口折下来的一圈，当成今天给脚踝的小小围墙。"
+        },
+        {
+          "id": "prophet-entry-0020",
+          "type": "LINE",
+          "content": "下周三，你会与一盏路灯同时亮起来，在你经过的时候。"
+        },
+        {
+          "id": "prophet-entry-0021",
+          "type": "LINE",
+          "content": "请把铅笔断掉的笔尖埋进花盆，不要做任何标记。"
+        },
+        {
+          "id": "prophet-entry-0022",
+          "type": "LINE",
+          "content": "后天傍晚，你会看见一只鸟站在电线上，替整条街整理音符。"
+        },
+        {
+          "id": "prophet-entry-0023",
+          "type": "LINE",
+          "content": "请在喝完牛奶后，把杯子倒扣在桌上三十秒再放正。"
+        },
+        {
+          "id": "prophet-entry-0024",
+          "type": "LINE",
+          "content": "不久后，你会记得一个从未去过的房间里的摆设。"
+        },
+        {
+          "id": "prophet-entry-0025",
+          "type": "LINE",
+          "content": "请把今天的落日从窗边引开，让它晚一点沉下。"
+        },
+        {
+          "id": "prophet-entry-0026",
+          "type": "LINE",
+          "content": "下周二，你会在超市里拿起一个罐头，只为了读上面的保质期。"
+        },
+        {
+          "id": "prophet-entry-0027",
+          "type": "LINE",
+          "content": "请在刷牙时，让泡沫在嘴边多停三秒再漱掉。"
+        },
+        {
+          "id": "prophet-entry-0028",
+          "type": "LINE",
+          "content": "某天早上，你会听见自己的鞋底粘着一小片昨夜的雨声。"
+        },
+        {
+          "id": "prophet-entry-0029",
+          "type": "LINE",
+          "content": "请把抽纸盒里第一张纸抽出来，叠成一朵很扁的云。"
+        },
+        {
+          "id": "prophet-entry-0030",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一盏路灯下等一封没有字的信。"
+        },
+        {
+          "id": "prophet-entry-0031",
+          "type": "LINE",
+          "content": "请在进电梯时，把背包靠左肩，给隐形的那位留一点位置。"
+        },
+        {
+          "id": "prophet-entry-0032",
+          "type": "LINE",
+          "content": "下个月某天，你会与一朵花同时抬头看太阳。"
+        },
+        {
+          "id": "prophet-entry-0033",
+          "type": "LINE",
+          "content": "请把日历上已经过去的那一页，轻轻撕成两半再拼回去。"
+        },
+        {
+          "id": "prophet-entry-0034",
+          "type": "LINE",
+          "content": "三日后，你会发现家里的第二把钥匙比第一把更凉。"
+        },
+        {
+          "id": "prophet-entry-0035",
+          "type": "LINE",
+          "content": "请在吃苹果前，用袖子擦出它反光的一小块，然后看一看。"
+        },
+        {
+          "id": "prophet-entry-0036",
+          "type": "LINE",
+          "content": "某个午后，你会听见隔壁传来一段只会弹三个音的风琴。"
+        },
+        {
+          "id": "prophet-entry-0037",
+          "type": "LINE",
+          "content": "请把晾衣架上一只空衣架轻轻推一下，让它自己转圈。"
+        },
+        {
+          "id": "prophet-entry-0038",
+          "type": "LINE",
+          "content": "明天出门时，你会多看一眼楼梯转角那个从没打开的消防栓。"
+        },
+        {
+          "id": "prophet-entry-0039",
+          "type": "LINE",
+          "content": "请在下一次泡茶时，让茶叶多浮一会儿再沉下去。"
+        },
+        {
+          "id": "prophet-entry-0040",
+          "type": "LINE",
+          "content": "不久后，你会用一个很旧的词称呼一种很新的颜色。"
+        },
+        {
+          "id": "prophet-entry-0041",
+          "type": "LINE",
+          "content": "请把今晚床头灯关掉前，用手指在灯泡上方试一下温度。"
+        },
+        {
+          "id": "prophet-entry-0042",
+          "type": "LINE",
+          "content": "后天早晨，你会发现自己的枕头上有一道陌生的折痕。"
+        },
+        {
+          "id": "prophet-entry-0043",
+          "type": "LINE",
+          "content": "请在过马路前，用鞋底轻轻擦一下斑马线的白条。"
+        },
+        {
+          "id": "prophet-entry-0044",
+          "type": "LINE",
+          "content": "某天你会突然觉得，世界上所有的门把手都在偷偷看你。"
+        },
+        {
+          "id": "prophet-entry-0045",
+          "type": "LINE",
+          "content": "请把冰箱里那盒过期的酸奶，连盒一起摆在阳台角落。"
+        },
+        {
+          "id": "prophet-entry-0046",
+          "type": "LINE",
+          "content": "下周四，你会在公园长椅上发现一行不认识的字。"
+        },
+        {
+          "id": "prophet-entry-0047",
+          "type": "LINE",
+          "content": "请在拆快递时，把胶带完整地撕成一条，不要断。"
+        },
+        {
+          "id": "prophet-entry-0048",
+          "type": "LINE",
+          "content": "某个深夜，你会听见楼下的垃圾桶发出很轻的鼾声。"
+        },
+        {
+          "id": "prophet-entry-0049",
+          "type": "LINE",
+          "content": "请把手机屏幕熄灭后，用指尖在黑色玻璃上写一个问号。"
+        },
+        {
+          "id": "prophet-entry-0050",
+          "type": "LINE",
+          "content": "三日后，你会无端想起一种小时候吃过的面包味道。"
+        },
+        {
+          "id": "prophet-entry-0051",
+          "type": "LINE",
+          "content": "请把外套第二颗扣子解开再扣上，重复一次。"
+        },
+        {
+          "id": "prophet-entry-0052",
+          "type": "LINE",
+          "content": "未来某天，你会对着一张没有目的地的旧车票发呆很久。"
+        },
+        {
+          "id": "prophet-entry-0053",
+          "type": "LINE",
+          "content": "请在窗玻璃上画一个很小的太阳，看它慢慢被雾盖住。"
+        },
+        {
+          "id": "prophet-entry-0054",
+          "type": "LINE",
+          "content": "下个周一，你会在上班路上发现一处从未注意过的墙角裂缝。"
+        },
+        {
+          "id": "prophet-entry-0055",
+          "type": "LINE",
+          "content": "请把书桌上那支没水的笔放回笔筒，笔尖朝上。"
+        },
+        {
+          "id": "prophet-entry-0056",
+          "type": "LINE",
+          "content": "某天午后，你会听见自己的呼吸和空调的风速合上同一个节拍。"
+        },
+        {
+          "id": "prophet-entry-0057",
+          "type": "LINE",
+          "content": "请在吃饼干前，把最后一口留到它变软。"
+        },
+        {
+          "id": "prophet-entry-0058",
+          "type": "LINE",
+          "content": "不久后，你会遇见一只眼睛一蓝一黄的猫，它不会理你。"
+        },
+        {
+          "id": "prophet-entry-0059",
+          "type": "LINE",
+          "content": "请把今天用的最后一个订书钉，按进一块橡皮里。"
+        },
+        {
+          "id": "prophet-entry-0060",
+          "type": "LINE",
+          "content": "后天夜里，你会梦见自己在一个巨大的碗里划船。"
+        },
+        {
+          "id": "prophet-entry-0061",
+          "type": "LINE",
+          "content": "请在清晨开窗时，让第一阵风先吹过你的左耳。"
+        },
+        {
+          "id": "prophet-entry-0062",
+          "type": "LINE",
+          "content": "下个月初，你会在车站看见一个举着空牌子的人。"
+        },
+        {
+          "id": "prophet-entry-0063",
+          "type": "LINE",
+          "content": "请把浴室里那面起雾的镜子，用掌心按出一个手印。"
+        },
+        {
+          "id": "prophet-entry-0064",
+          "type": "LINE",
+          "content": "某天你会突然明白，阳台那盆植物为什么朝右长。"
+        },
+        {
+          "id": "prophet-entry-0065",
+          "type": "LINE",
+          "content": "请在路过消防栓时，轻轻拍一下它的头顶。"
+        },
+        {
+          "id": "prophet-entry-0066",
+          "type": "LINE",
+          "content": "三日后，你会在旧笔记本里找到半张没有下文的便签。"
+        },
+        {
+          "id": "prophet-entry-0067",
+          "type": "LINE",
+          "content": "请把喝汽水时打出的那个嗝，留在杯子里不要带走。"
+        },
+        {
+          "id": "prophet-entry-0068",
+          "type": "LINE",
+          "content": "未来某天，你会对着一把坏了的伞说“没关系”。"
+        },
+        {
+          "id": "prophet-entry-0069",
+          "type": "LINE",
+          "content": "请在睡前把窗帘留一条缝，让月光刚好落在你脚踝。"
+        },
+        {
+          "id": "prophet-entry-0070",
+          "type": "LINE",
+          "content": "下周五，你会看见一个穿黄色雨衣的人站在晴天的桥上。"
+        },
+        {
+          "id": "prophet-entry-0071",
+          "type": "LINE",
+          "content": "请把鞋带解成两个一样大的圈，再慢慢拉紧。"
+        },
+        {
+          "id": "prophet-entry-0072",
+          "type": "LINE",
+          "content": "某天早上，你会认出楼上那户阳台上晾着的衣服和你的一模一样。"
+        },
+        {
+          "id": "prophet-entry-0073",
+          "type": "LINE",
+          "content": "请在开罐头前，用指节围绕盖沿敲三下。"
+        },
+        {
+          "id": "prophet-entry-0074",
+          "type": "LINE",
+          "content": "不久后，你会梦见自己站在一扇门后，门的那边有人在哼歌。"
+        },
+        {
+          "id": "prophet-entry-0075",
+          "type": "LINE",
+          "content": "请把抽屉里最左边那支笔调个头。"
+        },
+        {
+          "id": "prophet-entry-0076",
+          "type": "LINE",
+          "content": "后天下午，你会看见一队蚂蚁沿着墙线走完整个客厅。"
+        },
+        {
+          "id": "prophet-entry-0077",
+          "type": "LINE",
+          "content": "请在按下电梯按钮前，轻轻吹一下自己的拇指。"
+        },
+        {
+          "id": "prophet-entry-0078",
+          "type": "LINE",
+          "content": "某一天，你会把一首歌听到第99遍时才听清一句歌词。"
+        },
+        {
+          "id": "prophet-entry-0079",
+          "type": "LINE",
+          "content": "请把洗衣机的旋钮转到没有标记的那一格。"
+        },
+        {
+          "id": "prophet-entry-0080",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的夕阳特别适合用来结束一个句子。"
+        },
+        {
+          "id": "prophet-entry-0081",
+          "type": "LINE",
+          "content": "请在吃饭时，把碗里的饭粒数到第七粒再吃下。"
+        },
+        {
+          "id": "prophet-entry-0082",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏忽明忽暗的灯眨三次眼。"
+        },
+        {
+          "id": "prophet-entry-0083",
+          "type": "LINE",
+          "content": "请把窗边那瓶未拆封的矿泉水，倒过来放一晚。"
+        },
+        {
+          "id": "prophet-entry-0084",
+          "type": "LINE",
+          "content": "下周二，你会在电梯镜子里看见自己左眉比右眉高一点。"
+        },
+        {
+          "id": "prophet-entry-0085",
+          "type": "LINE",
+          "content": "请在洗澡时，让热水先冲你的左手腕十秒。"
+        },
+        {
+          "id": "prophet-entry-0086",
+          "type": "LINE",
+          "content": "某天夜里，你会听见自己冰箱和邻居冰箱同时启动。"
+        },
+        {
+          "id": "prophet-entry-0087",
+          "type": "LINE",
+          "content": "请把床头柜上那本倒扣的书翻个面，但不要看页码。"
+        },
+        {
+          "id": "prophet-entry-0088",
+          "type": "LINE",
+          "content": "不久后，你会在一家店里看见一个装满旧纽扣的玻璃罐。"
+        },
+        {
+          "id": "prophet-entry-0089",
+          "type": "LINE",
+          "content": "请在戴口罩前，对着里面轻轻笑一下。"
+        },
+        {
+          "id": "prophet-entry-0090",
+          "type": "LINE",
+          "content": "后天黄昏，你会看见自己的影子比平时长出一个头。"
+        },
+        {
+          "id": "prophet-entry-0091",
+          "type": "LINE",
+          "content": "请把遥控器上不认识的按钮都按一遍，然后关掉。"
+        },
+        {
+          "id": "prophet-entry-0092",
+          "type": "LINE",
+          "content": "某天你会突然理解，为什么有些楼梯走到一半会咯吱响。"
+        },
+        {
+          "id": "prophet-entry-0093",
+          "type": "LINE",
+          "content": "请在剥香蕉时，把香蕉皮分成五条差不多宽的条。"
+        },
+        {
+          "id": "prophet-entry-0094",
+          "type": "LINE",
+          "content": "下个月某天，你会捡起一片正好卡在车窗上的叶子。"
+        },
+        {
+          "id": "prophet-entry-0095",
+          "type": "LINE",
+          "content": "请把枕头拍三下，让里面的云朵重新分布。"
+        },
+        {
+          "id": "prophet-entry-0096",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个纸箱里看月亮。"
+        },
+        {
+          "id": "prophet-entry-0097",
+          "type": "LINE",
+          "content": "请在进门前用鞋跟在门垫上轻轻磕两下，不是为别的。"
+        },
+        {
+          "id": "prophet-entry-0098",
+          "type": "LINE",
+          "content": "三日后，你会在街角闻到一股很像童年夏天傍晚的气味。"
+        },
+        {
+          "id": "prophet-entry-0099",
+          "type": "LINE",
+          "content": "请把杯子里的水顺时针搅三圈再喝。"
+        },
+        {
+          "id": "prophet-entry-0100",
+          "type": "LINE",
+          "content": "某天早晨，你会发现自己能听见冰箱打开时那声“哈”。"
+        },
+        {
+          "id": "prophet-entry-0101",
+          "type": "LINE",
+          "content": "请把阳台那件晾着的衣服袖子卷起来。"
+        },
+        {
+          "id": "prophet-entry-0102",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在路边认真地给一片水洼让路。"
+        },
+        {
+          "id": "prophet-entry-0103",
+          "type": "LINE",
+          "content": "请在睡前把今天用过的最后一个词写在手腕上，让它过夜。"
+        },
+        {
+          "id": "prophet-entry-0104",
+          "type": "LINE",
+          "content": "某天午后，你会把一只脚伸进阳光里，看它变成暖色。"
+        },
+        {
+          "id": "prophet-entry-0105",
+          "type": "LINE",
+          "content": "请把书架最上层那本薄书抽出来，吹掉上面的灰。"
+        },
+        {
+          "id": "prophet-entry-0106",
+          "type": "LINE",
+          "content": "不久后，你会梦见自己变成一株植物，但只需要喝水。"
+        },
+        {
+          "id": "prophet-entry-0107",
+          "type": "LINE",
+          "content": "请在吹头发时，把风筒对着天花板吹三秒。"
+        },
+        {
+          "id": "prophet-entry-0108",
+          "type": "LINE",
+          "content": "三日后，你会发现自己的左鞋带总是比右鞋带先松。"
+        },
+        {
+          "id": "prophet-entry-0109",
+          "type": "LINE",
+          "content": "请把便签本第一页撕下，折成一只没有嘴的纸鹤。"
+        },
+        {
+          "id": "prophet-entry-0110",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台自动售货机说“不用找零了”，尽管它没听懂。"
+        },
+        {
+          "id": "prophet-entry-0111",
+          "type": "LINE",
+          "content": "请在等水开时，把耳朵靠近壶口听那些小气泡说话。"
+        },
+        {
+          "id": "prophet-entry-0112",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人抱着一个很大的鱼缸，缸里没有鱼。"
+        },
+        {
+          "id": "prophet-entry-0113",
+          "type": "LINE",
+          "content": "请把吃剩的苹果核用纸巾包好，放进口袋直到回家。"
+        },
+        {
+          "id": "prophet-entry-0114",
+          "type": "LINE",
+          "content": "某天清晨，你会记得一个从没做过的梦的结尾。"
+        },
+        {
+          "id": "prophet-entry-0115",
+          "type": "LINE",
+          "content": "请在出门前，用鞋尖碰一下门的左下角。"
+        },
+        {
+          "id": "prophet-entry-0116",
+          "type": "LINE",
+          "content": "后天晚上，你会看见对面楼里有人举着手电筒画圈。"
+        },
+        {
+          "id": "prophet-entry-0117",
+          "type": "LINE",
+          "content": "请把橡皮屑收集在一个小纸杯里，不要倒掉。"
+        },
+        {
+          "id": "prophet-entry-0118",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在图书馆里找一本没有名字的书。"
+        },
+        {
+          "id": "prophet-entry-0119",
+          "type": "LINE",
+          "content": "请在开冰箱拿水时，让门开三秒再拿。"
+        },
+        {
+          "id": "prophet-entry-0120",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的月亮像被谁轻轻咬过一口。"
+        },
+        {
+          "id": "prophet-entry-0121",
+          "type": "LINE",
+          "content": "请把杯子里的吸管弯成直角。"
+        },
+        {
+          "id": "prophet-entry-0122",
+          "type": "LINE",
+          "content": "某天你会看见一只鸟停在你的窗台，像在等一个解释。"
+        },
+        {
+          "id": "prophet-entry-0123",
+          "type": "LINE",
+          "content": "请在下一次拉上背包拉链时，从右到左拉。"
+        },
+        {
+          "id": "prophet-entry-0124",
+          "type": "LINE",
+          "content": "下周二，你会在路上发现一根被风吹得笔直的线。"
+        },
+        {
+          "id": "prophet-entry-0125",
+          "type": "LINE",
+          "content": "请在关灯后，让眼睛适应黑暗，然后看房间里的家具慢慢浮现。"
+        },
+        {
+          "id": "prophet-entry-0126",
+          "type": "LINE",
+          "content": "不久后，你会对着一台旧风扇说“你吹出的风有灰尘味”。"
+        },
+        {
+          "id": "prophet-entry-0127",
+          "type": "LINE",
+          "content": "请把今天收到的传单折成一顶很小的帽子。"
+        },
+        {
+          "id": "prophet-entry-0128",
+          "type": "LINE",
+          "content": "某天夜里，你会听见空调滴水管在外墙发出规律的滴答，像暗号。"
+        },
+        {
+          "id": "prophet-entry-0129",
+          "type": "LINE",
+          "content": "请在刷牙杯里留一口水，明天再倒掉。"
+        },
+        {
+          "id": "prophet-entry-0130",
+          "type": "LINE",
+          "content": "未来某天，你会突然想给一把生锈的钥匙上油，尽管它已没有锁。"
+        },
+        {
+          "id": "prophet-entry-0131",
+          "type": "LINE",
+          "content": "请把鞋柜最下面那层的一只鞋往里推一点。"
+        },
+        {
+          "id": "prophet-entry-0132",
+          "type": "LINE",
+          "content": "下周三，你会在一扇窗上看到自己的影子做了一个你没有做的动作。"
+        },
+        {
+          "id": "prophet-entry-0133",
+          "type": "LINE",
+          "content": "请在系围巾时，让其中一头比另一头长很多。"
+        },
+        {
+          "id": "prophet-entry-0134",
+          "type": "LINE",
+          "content": "三日后，你会发现自己的右手中指指甲上有一道很浅的竖纹。"
+        },
+        {
+          "id": "prophet-entry-0135",
+          "type": "LINE",
+          "content": "请把切好的柠檬片放在阳光晒不到的地方，观察它慢慢变干。"
+        },
+        {
+          "id": "prophet-entry-0136",
+          "type": "LINE",
+          "content": "某天下午，你会听见楼下有自行车铃响了三声，却没有人经过。"
+        },
+        {
+          "id": "prophet-entry-0137",
+          "type": "LINE",
+          "content": "请在给手机充电时，把充电线绕一个小圈再插上。"
+        },
+        {
+          "id": "prophet-entry-0138",
+          "type": "LINE",
+          "content": "不久后，你会梦见自己在一个没有门把手的小房间里。"
+        },
+        {
+          "id": "prophet-entry-0139",
+          "type": "LINE",
+          "content": "请把花盆转动四分之一圈，让那株植物看看别的方向。"
+        },
+        {
+          "id": "prophet-entry-0140",
+          "type": "LINE",
+          "content": "下周四，你会在公交站台看见一个对着空气点头的人。"
+        },
+        {
+          "id": "prophet-entry-0141",
+          "type": "LINE",
+          "content": "请在面包片上抹果酱时，画一个不太圆的圈。"
+        },
+        {
+          "id": "prophet-entry-0142",
+          "type": "LINE",
+          "content": "某天清晨，你会发现自己记得昨天一朵云的确切形状。"
+        },
+        {
+          "id": "prophet-entry-0143",
+          "type": "LINE",
+          "content": "请把铅笔芯断掉的那一小截放在字典里。"
+        },
+        {
+          "id": "prophet-entry-0144",
+          "type": "LINE",
+          "content": "三日后，你会听见自己的膝盖在下楼时发出很轻的一声。"
+        },
+        {
+          "id": "prophet-entry-0145",
+          "type": "LINE",
+          "content": "请在拉开易拉罐前，用指甲沿拉环划一圈。"
+        },
+        {
+          "id": "prophet-entry-0146",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台正在关机的电脑说“明天见”。"
+        },
+        {
+          "id": "prophet-entry-0147",
+          "type": "LINE",
+          "content": "请把晒干的衣服收进来时，先闻一下领口。"
+        },
+        {
+          "id": "prophet-entry-0148",
+          "type": "LINE",
+          "content": "下个月某天，你会看见一只蜗牛横穿了整个台阶。"
+        },
+        {
+          "id": "prophet-entry-0149",
+          "type": "LINE",
+          "content": "请在吃面条时，挑出最长的一根，搭在碗沿上。"
+        },
+        {
+          "id": "prophet-entry-0150",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一场很小的雨中散步，雨只落在你左边。"
+        },
+        {
+          "id": "prophet-entry-0151",
+          "type": "LINE",
+          "content": "请把垃圾桶里最上面那团纸捡出来，展开看看有没有一个字。"
+        },
+        {
+          "id": "prophet-entry-0152",
+          "type": "LINE",
+          "content": "后天早晨，你会发现自己的鞋尖上有一点蓝色的漆。"
+        },
+        {
+          "id": "prophet-entry-0153",
+          "type": "LINE",
+          "content": "请在乘扶梯时，把重心放在右脚。"
+        },
+        {
+          "id": "prophet-entry-0154",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的风是从北方偏左的方向来的。"
+        },
+        {
+          "id": "prophet-entry-0155",
+          "type": "LINE",
+          "content": "请把电扇关掉后，听它慢慢停下来的声音。"
+        },
+        {
+          "id": "prophet-entry-0156",
+          "type": "LINE",
+          "content": "未来某天，你会对着一把很旧的塑料梳子说“你梳掉了时间”。"
+        },
+        {
+          "id": "prophet-entry-0157",
+          "type": "LINE",
+          "content": "请在剥蛋壳前，把蛋在桌上滚三下。"
+        },
+        {
+          "id": "prophet-entry-0158",
+          "type": "LINE",
+          "content": "下周三，你会在地铁车窗的倒影里看见一个已经很久没联系的人。"
+        },
+        {
+          "id": "prophet-entry-0159",
+          "type": "LINE",
+          "content": "请把桌子上的橡皮屑扫进左手掌心，然后吹散。"
+        },
+        {
+          "id": "prophet-entry-0160",
+          "type": "LINE",
+          "content": "某天下午，你会听见某家店里在放一首你只会哼不会唱的曲子。"
+        },
+        {
+          "id": "prophet-entry-0161",
+          "type": "LINE",
+          "content": "请在穿袜子时，先穿左脚，再把右脚袜子的跟部转正。"
+        },
+        {
+          "id": "prophet-entry-0162",
+          "type": "LINE",
+          "content": "不久后，你会梦见自己在一间全是枕头的屋子里走路。"
+        },
+        {
+          "id": "prophet-entry-0163",
+          "type": "LINE",
+          "content": "请把手机相册里最新一张照片删掉，明天再恢复。"
+        },
+        {
+          "id": "prophet-entry-0164",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在黄昏时特别礼貌。"
+        },
+        {
+          "id": "prophet-entry-0165",
+          "type": "LINE",
+          "content": "请在关门时，不要完全关死，留一根发丝的缝。"
+        },
+        {
+          "id": "prophet-entry-0166",
+          "type": "LINE",
+          "content": "某天清晨，你会看见一辆洒水车经过后，路面上出现很小的彩虹。"
+        },
+        {
+          "id": "prophet-entry-0167",
+          "type": "LINE",
+          "content": "请把酸奶盒的盖子舔一下，然后洗掉。"
+        },
+        {
+          "id": "prophet-entry-0168",
+          "type": "LINE",
+          "content": "下周二，你会在一个路口遇见一只努力想把塑料袋拖走的小狗。"
+        },
+        {
+          "id": "prophet-entry-0169",
+          "type": "LINE",
+          "content": "请在打开电脑前，用食指在桌面上画一个小圈。"
+        },
+        {
+          "id": "prophet-entry-0170",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个巨大的钟表里面，秒针从你身边掠过。"
+        },
+        {
+          "id": "prophet-entry-0171",
+          "type": "LINE",
+          "content": "请把遥控器的电池方向调换一下，再调回来。"
+        },
+        {
+          "id": "prophet-entry-0172",
+          "type": "LINE",
+          "content": "三日后，你会发现家里有一盏灯的开关从没被按过。"
+        },
+        {
+          "id": "prophet-entry-0173",
+          "type": "LINE",
+          "content": "请在吃薯片时，选一片最完整的，对着灯光看它的纹理。"
+        },
+        {
+          "id": "prophet-entry-0174",
+          "type": "LINE",
+          "content": "某天你会突然想给一条很久不穿的裤子剪掉标签。"
+        },
+        {
+          "id": "prophet-entry-0175",
+          "type": "LINE",
+          "content": "请把雨水在窗台留下的水渍用指尖连成一条线。"
+        },
+        {
+          "id": "prophet-entry-0176",
+          "type": "LINE",
+          "content": "下个月初，你会在一棵树上看见一只倒着爬的松鼠。"
+        },
+        {
+          "id": "prophet-entry-0177",
+          "type": "LINE",
+          "content": "请在晾衣服时，把两个相邻的衣架轻轻碰一下。"
+        },
+        {
+          "id": "prophet-entry-0178",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台没有信号的收音机调台，像在寻找一个频道的外星。"
+        },
+        {
+          "id": "prophet-entry-0179",
+          "type": "LINE",
+          "content": "请把用完的电池放在一个空糖盒里，不要丢。"
+        },
+        {
+          "id": "prophet-entry-0180",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚步声在走廊里比平时空。"
+        },
+        {
+          "id": "prophet-entry-0181",
+          "type": "LINE",
+          "content": "请在洗手时，让水从你的腕部流过，数到八。"
+        },
+        {
+          "id": "prophet-entry-0182",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一张巨大的网里，但很安全。"
+        },
+        {
+          "id": "prophet-entry-0183",
+          "type": "LINE",
+          "content": "请把窗户开到一半，让窗帘和风谈判。"
+        },
+        {
+          "id": "prophet-entry-0184",
+          "type": "LINE",
+          "content": "下周三，你会看见一个路牌指向一条很小很窄的巷子。"
+        },
+        {
+          "id": "prophet-entry-0185",
+          "type": "LINE",
+          "content": "请在吃苹果时，从底部开始咬。"
+        },
+        {
+          "id": "prophet-entry-0186",
+          "type": "LINE",
+          "content": "不久后，你会记得一个只听过一次的电话号码末尾三位。"
+        },
+        {
+          "id": "prophet-entry-0187",
+          "type": "LINE",
+          "content": "请把雨伞折起来后，让伞骨上的水珠滴进花盆。"
+        },
+        {
+          "id": "prophet-entry-0188",
+          "type": "LINE",
+          "content": "三日后，你会发现自己的左耳比右耳听得更远一点。"
+        },
+        {
+          "id": "prophet-entry-0189",
+          "type": "LINE",
+          "content": "请在锁门后，轻轻拉一下门把，确认它已和你道别。"
+        },
+        {
+          "id": "prophet-entry-0190",
+          "type": "LINE",
+          "content": "某天傍晚，你会看见飞机尾迹把天空分成两半。"
+        },
+        {
+          "id": "prophet-entry-0191",
+          "type": "LINE",
+          "content": "请把杯底的茶叶渣用勺子画成一座山。"
+        },
+        {
+          "id": "prophet-entry-0192",
+          "type": "LINE",
+          "content": "下个月某天，你会在地铁上看到一个正在织毛衣的男人。"
+        },
+        {
+          "id": "prophet-entry-0193",
+          "type": "LINE",
+          "content": "请在打鸡蛋前，把蛋壳用指节敲出两道细纹。"
+        },
+        {
+          "id": "prophet-entry-0194",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个长满书页的花园里迷路。"
+        },
+        {
+          "id": "prophet-entry-0195",
+          "type": "LINE",
+          "content": "请把桌上那杯已经没汽的可乐倒进马桶，听它最后的气泡声。"
+        },
+        {
+          "id": "prophet-entry-0196",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的阳光晒在身上的重量比昨天轻。"
+        },
+        {
+          "id": "prophet-entry-0197",
+          "type": "LINE",
+          "content": "请在关掉水龙头后，把水滴声数到停。"
+        },
+        {
+          "id": "prophet-entry-0198",
+          "type": "LINE",
+          "content": "某天清晨，你会看见一只鸟从你的阳台栏杆跳到空中，像踩着一级隐形的台阶。"
+        },
+        {
+          "id": "prophet-entry-0199",
+          "type": "LINE",
+          "content": "请把手表的表带松一格，让手腕透一口气。"
+        },
+        {
+          "id": "prophet-entry-0200",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盒快过期的牛奶说：“我还没有准备好。”"
+        },
+        {
+          "id": "prophet-entry-0201",
+          "type": "LINE",
+          "content": "请把空调遥控器上的“睡眠”键按两下。"
+        },
+        {
+          "id": "prophet-entry-0202",
+          "type": "LINE",
+          "content": "三日后，你会发现自己的牙齿在深夜轻轻咬合过。"
+        },
+        {
+          "id": "prophet-entry-0203",
+          "type": "LINE",
+          "content": "请在翻开书前，用食指把书脊上的灰抹成一条线。"
+        },
+        {
+          "id": "prophet-entry-0204",
+          "type": "LINE",
+          "content": "某天早晨，你会觉得自己的牙刷记得你的嘴形。"
+        },
+        {
+          "id": "prophet-entry-0205",
+          "type": "LINE",
+          "content": "请把窗帘拉上又拉开，让光决定要不要进来。"
+        },
+        {
+          "id": "prophet-entry-0206",
+          "type": "LINE",
+          "content": "下周二，你会在一棵树下捡到一根没有鸟的羽毛。"
+        },
+        {
+          "id": "prophet-entry-0207",
+          "type": "LINE",
+          "content": "请在泡面时，把调料包剪开一个小口，先闻三秒。"
+        },
+        {
+          "id": "prophet-entry-0208",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己坐在一个空浴缸里等雨。"
+        },
+        {
+          "id": "prophet-entry-0209",
+          "type": "LINE",
+          "content": "请把电灯开关按到中间，让灯闪一下。"
+        },
+        {
+          "id": "prophet-entry-0210",
+          "type": "LINE",
+          "content": "三日后，你会发现自己的左手指甲长得比右手快。"
+        },
+        {
+          "id": "prophet-entry-0211",
+          "type": "LINE",
+          "content": "请在削苹果时，尽量不让苹果皮断掉。"
+        },
+        {
+          "id": "prophet-entry-0212",
+          "type": "LINE",
+          "content": "某天傍晚，你会看见一只狗在追自己的尾巴，追到一半停下思考。"
+        },
+        {
+          "id": "prophet-entry-0213",
+          "type": "LINE",
+          "content": "请把手机倒扣在桌上三分钟，再翻过来。"
+        },
+        {
+          "id": "prophet-entry-0214",
+          "type": "LINE",
+          "content": "下个月某天，你会在地铁里听见一段只有你听见的报站声。"
+        },
+        {
+          "id": "prophet-entry-0215",
+          "type": "LINE",
+          "content": "请在洗手时，用肥皂泡在手背画一个小圈。"
+        },
+        {
+          "id": "prophet-entry-0216",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台老式电话听筒听里面的嗡声。"
+        },
+        {
+          "id": "prophet-entry-0217",
+          "type": "LINE",
+          "content": "请把一只袜子反过来穿一天。"
+        },
+        {
+          "id": "prophet-entry-0218",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的月亮特别扁。"
+        },
+        {
+          "id": "prophet-entry-0219",
+          "type": "LINE",
+          "content": "请在牛奶盒上画一个笑脸，然后放进冰箱。"
+        },
+        {
+          "id": "prophet-entry-0220",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一张无限长的餐桌上只吃面包边。"
+        },
+        {
+          "id": "prophet-entry-0221",
+          "type": "LINE",
+          "content": "请把鞋垫抽出来拍两下再放回去。"
+        },
+        {
+          "id": "prophet-entry-0222",
+          "type": "LINE",
+          "content": "下周三，你会看见一个陌生人朝你点头，但你不认识他。"
+        },
+        {
+          "id": "prophet-entry-0223",
+          "type": "LINE",
+          "content": "请在吹电扇时，把脸凑近网罩，让声音传进耳朵。"
+        },
+        {
+          "id": "prophet-entry-0224",
+          "type": "LINE",
+          "content": "不久后，你会突然记住一个早已搬走的邻居的门牌号。"
+        },
+        {
+          "id": "prophet-entry-0225",
+          "type": "LINE",
+          "content": "请把桌上的橡皮屑吹向窗户。"
+        },
+        {
+          "id": "prophet-entry-0226",
+          "type": "LINE",
+          "content": "未来某天，你会对着一面很小的镜子做鬼脸，然后笑出来。"
+        },
+        {
+          "id": "prophet-entry-0227",
+          "type": "LINE",
+          "content": "请在关门后，把钥匙在锁孔里轻轻转半圈。"
+        },
+        {
+          "id": "prophet-entry-0228",
+          "type": "LINE",
+          "content": "三日后，你会发现自己的枕头有一股太阳晒过的味道。"
+        },
+        {
+          "id": "prophet-entry-0229",
+          "type": "LINE",
+          "content": "请把矿泉水瓶盖拧下来再反着拧回去。"
+        },
+        {
+          "id": "prophet-entry-0230",
+          "type": "LINE",
+          "content": "某天早上，你会听见楼上传来的脚步声和你的心跳同拍。"
+        },
+        {
+          "id": "prophet-entry-0231",
+          "type": "LINE",
+          "content": "请在吃玉米时，先数一数列的粒数。"
+        },
+        {
+          "id": "prophet-entry-0232",
+          "type": "LINE",
+          "content": "下个月初，你会在路上看见一只断了线的风筝卡在树上。"
+        },
+        {
+          "id": "prophet-entry-0233",
+          "type": "LINE",
+          "content": "请把冰箱里的鸡蛋都翻个面。"
+        },
+        {
+          "id": "prophet-entry-0234",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是灯的房间，但每盏灯都叫不同的名字。"
+        },
+        {
+          "id": "prophet-entry-0235",
+          "type": "LINE",
+          "content": "请在睡前把头发在枕头上铺成一个扇形。"
+        },
+        {
+          "id": "prophet-entry-0236",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在夜晚特别淡。"
+        },
+        {
+          "id": "prophet-entry-0237",
+          "type": "LINE",
+          "content": "请把便签纸折成极小的一朵花。"
+        },
+        {
+          "id": "prophet-entry-0238",
+          "type": "LINE",
+          "content": "某天你会突然想给一个很久没用的软件更新。"
+        },
+        {
+          "id": "prophet-entry-0239",
+          "type": "LINE",
+          "content": "请在喝水前，用手指在杯口划一圈。"
+        },
+        {
+          "id": "prophet-entry-0240",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟衔着一根很长的草飞过。"
+        },
+        {
+          "id": "prophet-entry-0241",
+          "type": "LINE",
+          "content": "请把抽屉里不用的纽扣摆成一排。"
+        },
+        {
+          "id": "prophet-entry-0242",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧T恤上的破洞说“你辛苦了”。"
+        },
+        {
+          "id": "prophet-entry-0243",
+          "type": "LINE",
+          "content": "请在雨停后，把伞撑开晾在门后。"
+        },
+        {
+          "id": "prophet-entry-0244",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己走路时鞋底和地面的摩擦声变了。"
+        },
+        {
+          "id": "prophet-entry-0245",
+          "type": "LINE",
+          "content": "请把面包袋的封口夹拿掉，让空气进去。"
+        },
+        {
+          "id": "prophet-entry-0246",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一间没有墙的房子里晒月亮。"
+        },
+        {
+          "id": "prophet-entry-0247",
+          "type": "LINE",
+          "content": "请在乘电梯时，盯着楼层数字变化，但不要数。"
+        },
+        {
+          "id": "prophet-entry-0248",
+          "type": "LINE",
+          "content": "下周三，你会在公园里看见一个老人对着树说话。"
+        },
+        {
+          "id": "prophet-entry-0249",
+          "type": "LINE",
+          "content": "请把铅笔削出的木花收集在一个小盒子里。"
+        },
+        {
+          "id": "prophet-entry-0250",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台关机的电视看见自己的倒影，并点点头。"
+        },
+        {
+          "id": "prophet-entry-0251",
+          "type": "LINE",
+          "content": "请在系皮带时，把扣眼往里多扣一格。"
+        },
+        {
+          "id": "prophet-entry-0252",
+          "type": "LINE",
+          "content": "三日后，你会发现自己的手背上有三道很浅的纹路。"
+        },
+        {
+          "id": "prophet-entry-0253",
+          "type": "LINE",
+          "content": "请把洗衣液瓶盖里的残留倒进下水道，让它去看海。"
+        },
+        {
+          "id": "prophet-entry-0254",
+          "type": "LINE",
+          "content": "某天下午，你会听见远处的琴声断在一个高音上。"
+        },
+        {
+          "id": "prophet-entry-0255",
+          "type": "LINE",
+          "content": "请在切西瓜前，把刀在空气里挥一下。"
+        },
+        {
+          "id": "prophet-entry-0256",
+          "type": "LINE",
+          "content": "下个月某天，你会在地铁口看见一只猫端坐在闸机旁。"
+        },
+        {
+          "id": "prophet-entry-0257",
+          "type": "LINE",
+          "content": "请把手机壁纸换成纯色，用一天再换回。"
+        },
+        {
+          "id": "prophet-entry-0258",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个透明的电梯里不断上升，但外面没有风景。"
+        },
+        {
+          "id": "prophet-entry-0259",
+          "type": "LINE",
+          "content": "请在睡觉前，把脱下的衣服叠成一个小丘。"
+        },
+        {
+          "id": "prophet-entry-0260",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的风会拐弯。"
+        },
+        {
+          "id": "prophet-entry-0261",
+          "type": "LINE",
+          "content": "请把空薯片袋吹满气，然后拍破。"
+        },
+        {
+          "id": "prophet-entry-0262",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟叫的第一声，然后其他鸟才跟上。"
+        },
+        {
+          "id": "prophet-entry-0263",
+          "type": "LINE",
+          "content": "请在喝酸奶时，不搅拌直接喝到底。"
+        },
+        {
+          "id": "prophet-entry-0264",
+          "type": "LINE",
+          "content": "下周二，你会在人行道上看见一块砖头微微翘起。"
+        },
+        {
+          "id": "prophet-entry-0265",
+          "type": "LINE",
+          "content": "请把窗户开一条缝，让风自己决定是否进来。"
+        },
+        {
+          "id": "prophet-entry-0266",
+          "type": "LINE",
+          "content": "未来某天，你会对着一包干燥剂说“别太辛苦”。"
+        },
+        {
+          "id": "prophet-entry-0267",
+          "type": "LINE",
+          "content": "请在撕日历前，用手指摸一下今天的数字。"
+        },
+        {
+          "id": "prophet-entry-0268",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在冬天变得可见是一种特权。"
+        },
+        {
+          "id": "prophet-entry-0269",
+          "type": "LINE",
+          "content": "请把用完的牙线放在一张纸上摆成字母。"
+        },
+        {
+          "id": "prophet-entry-0270",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个装满羽毛的房间里打喷嚏。"
+        },
+        {
+          "id": "prophet-entry-0271",
+          "type": "LINE",
+          "content": "请在等公交时，用脚尖画一个半圆。"
+        },
+        {
+          "id": "prophet-entry-0272",
+          "type": "LINE",
+          "content": "下个月初，你会看见一家店铺门口挂着“今日休息”的牌子已经褪色。"
+        },
+        {
+          "id": "prophet-entry-0273",
+          "type": "LINE",
+          "content": "请把耳机线绕成八字再解开。"
+        },
+        {
+          "id": "prophet-entry-0274",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台自动取款机说“不用了，谢谢”。"
+        },
+        {
+          "id": "prophet-entry-0275",
+          "type": "LINE",
+          "content": "请在剥橘子时，把橘络撕成一小段一小段。"
+        },
+        {
+          "id": "prophet-entry-0276",
+          "type": "LINE",
+          "content": "三日后，你会发现自己能闭着眼走到卫生间。"
+        },
+        {
+          "id": "prophet-entry-0277",
+          "type": "LINE",
+          "content": "请把今天喝过的茶包放在窗台晒干。"
+        },
+        {
+          "id": "prophet-entry-0278",
+          "type": "LINE",
+          "content": "某天傍晚，你会看见一群鸟在天空变换队形，像在写字。"
+        },
+        {
+          "id": "prophet-entry-0279",
+          "type": "LINE",
+          "content": "请在洗碗时，让最后一个碗在水里多泡一会儿。"
+        },
+        {
+          "id": "prophet-entry-0280",
+          "type": "LINE",
+          "content": "下周三，你会在地铁里看见一个学生用笔在纸上画圈。"
+        },
+        {
+          "id": "prophet-entry-0281",
+          "type": "LINE",
+          "content": "请把床头灯调暗，让房间看起来像旧照片。"
+        },
+        {
+          "id": "prophet-entry-0282",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个巨大的钟表里睡觉。"
+        },
+        {
+          "id": "prophet-entry-0283",
+          "type": "LINE",
+          "content": "请在出门前，把门垫上的灰拍掉一点。"
+        },
+        {
+          "id": "prophet-entry-0284",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的左手无名指比右手凉。"
+        },
+        {
+          "id": "prophet-entry-0285",
+          "type": "LINE",
+          "content": "请把手机里的一个未接来电回拨，对方是空号。"
+        },
+        {
+          "id": "prophet-entry-0286",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆绿植换一个方向。"
+        },
+        {
+          "id": "prophet-entry-0287",
+          "type": "LINE",
+          "content": "请在吃面条时，用筷子把汤里的葱花拨到一边。"
+        },
+        {
+          "id": "prophet-entry-0288",
+          "type": "LINE",
+          "content": "下周二，你会在路上看见一个被风吹着走的塑料袋，它像在赶路。"
+        },
+        {
+          "id": "prophet-entry-0289",
+          "type": "LINE",
+          "content": "请把眼镜片上的指纹用衣角擦掉。"
+        },
+        {
+          "id": "prophet-entry-0290",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件衬衫说“你看起来今天不想被穿”。"
+        },
+        {
+          "id": "prophet-entry-0291",
+          "type": "LINE",
+          "content": "请在睡前把窗帘拉上后，再拉开一掌宽。"
+        },
+        {
+          "id": "prophet-entry-0292",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚步在雪地上特别清晰。"
+        },
+        {
+          "id": "prophet-entry-0293",
+          "type": "LINE",
+          "content": "请把吃剩的瓜子壳排成一条线。"
+        },
+        {
+          "id": "prophet-entry-0294",
+          "type": "LINE",
+          "content": "某天清晨，你会听见水管里传来一阵很轻的咕噜声。"
+        },
+        {
+          "id": "prophet-entry-0295",
+          "type": "LINE",
+          "content": "请在换鞋时，把鞋尖朝里放。"
+        },
+        {
+          "id": "prophet-entry-0296",
+          "type": "LINE",
+          "content": "下个月某天，你会看见一个小孩在商场里对着橱窗发呆。"
+        },
+        {
+          "id": "prophet-entry-0297",
+          "type": "LINE",
+          "content": "请把手机屏幕上的指纹擦成一条条细线。"
+        },
+        {
+          "id": "prophet-entry-0298",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个只有回声的楼道里唱歌。"
+        },
+        {
+          "id": "prophet-entry-0299",
+          "type": "LINE",
+          "content": "请在煮鸡蛋时，让它在水里多待一分钟。"
+        },
+        {
+          "id": "prophet-entry-0300",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼皮在下午特别沉。"
+        },
+        {
+          "id": "prophet-entry-0301",
+          "type": "LINE",
+          "content": "请把桌上的橡皮掰成两半，一半放回原处。"
+        },
+        {
+          "id": "prophet-entry-0302",
+          "type": "LINE",
+          "content": "某天傍晚，你会看见夕阳把一片云染成粉紫色。"
+        },
+        {
+          "id": "prophet-entry-0303",
+          "type": "LINE",
+          "content": "请在过桥时，扶一下栏杆，感受它的凉。"
+        },
+        {
+          "id": "prophet-entry-0304",
+          "type": "LINE",
+          "content": "下周三，你会在地铁里看见一个抱着相册的人。"
+        },
+        {
+          "id": "prophet-entry-0305",
+          "type": "LINE",
+          "content": "请把水杯里的柠檬片用勺子压一压。"
+        },
+        {
+          "id": "prophet-entry-0306",
+          "type": "LINE",
+          "content": "未来某天，你会对着一把生锈的剪刀说“你剪过多少东西”。"
+        },
+        {
+          "id": "prophet-entry-0307",
+          "type": "LINE",
+          "content": "请在洗澡时，把水开成冷水冲一下脚。"
+        },
+        {
+          "id": "prophet-entry-0308",
+          "type": "LINE",
+          "content": "三日后，你会发现自己能记住一串陌生的数字。"
+        },
+        {
+          "id": "prophet-entry-0309",
+          "type": "LINE",
+          "content": "请把空的饮料瓶捏扁再放开。"
+        },
+        {
+          "id": "prophet-entry-0310",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个纸箱里听雨。"
+        },
+        {
+          "id": "prophet-entry-0311",
+          "type": "LINE",
+          "content": "请在系围裙时，把带子在前面系一个蝴蝶结。"
+        },
+        {
+          "id": "prophet-entry-0312",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟在你的窗台上留下一根绒毛。"
+        },
+        {
+          "id": "prophet-entry-0313",
+          "type": "LINE",
+          "content": "请把日历翻到明年今天，又马上翻回。"
+        },
+        {
+          "id": "prophet-entry-0314",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏掉的收音机说“没关系”。"
+        },
+        {
+          "id": "prophet-entry-0315",
+          "type": "LINE",
+          "content": "请在洗手后，甩三下手。"
+        },
+        {
+          "id": "prophet-entry-0316",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的云低得可以碰到楼顶。"
+        },
+        {
+          "id": "prophet-entry-0317",
+          "type": "LINE",
+          "content": "请把抽屉里的旧电池排成两排。"
+        },
+        {
+          "id": "prophet-entry-0318",
+          "type": "LINE",
+          "content": "某天清晨，你会听见楼下有人用口哨吹一首老歌。"
+        },
+        {
+          "id": "prophet-entry-0319",
+          "type": "LINE",
+          "content": "请在吃冰淇淋时，先等它微微化开。"
+        },
+        {
+          "id": "prophet-entry-0320",
+          "type": "LINE",
+          "content": "下个月初，你会看见一只蝴蝶停在路边的消防栓上。"
+        },
+        {
+          "id": "prophet-entry-0321",
+          "type": "LINE",
+          "content": "请把牙刷杯里的水倒掉，再倒进去。"
+        },
+        {
+          "id": "prophet-entry-0322",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一间全是抽屉的房间里找钥匙。"
+        },
+        {
+          "id": "prophet-entry-0323",
+          "type": "LINE",
+          "content": "请在走路时，尽量不踩到地砖的缝。"
+        },
+        {
+          "id": "prophet-entry-0324",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的鞋带系得比昨天紧。"
+        },
+        {
+          "id": "prophet-entry-0325",
+          "type": "LINE",
+          "content": "请把空的牛奶盒压扁，再折一下。"
+        },
+        {
+          "id": "prophet-entry-0326",
+          "type": "LINE",
+          "content": "某天你会突然想给一个陌生人让座，即使他不需要。"
+        },
+        {
+          "id": "prophet-entry-0327",
+          "type": "LINE",
+          "content": "请在关门时，轻轻说一声“再见”。"
+        },
+        {
+          "id": "prophet-entry-0328",
+          "type": "LINE",
+          "content": "下周三，你会在地铁里看见一只导盲犬趴着，很安静。"
+        },
+        {
+          "id": "prophet-entry-0329",
+          "type": "LINE",
+          "content": "请把吃剩的苹果皮摆成一颗星星。"
+        },
+        {
+          "id": "prophet-entry-0330",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏路灯说“今晚轮到你值班了”。"
+        },
+        {
+          "id": "prophet-entry-0331",
+          "type": "LINE",
+          "content": "请在睡前把床头的书合上，让书签多露一点。"
+        },
+        {
+          "id": "prophet-entry-0332",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手臂在阳光下有细小的绒毛发光。"
+        },
+        {
+          "id": "prophet-entry-0333",
+          "type": "LINE",
+          "content": "请把电风扇的网罩拆下来擦掉灰尘。"
+        },
+        {
+          "id": "prophet-entry-0334",
+          "type": "LINE",
+          "content": "某天傍晚，你会听见远处的钟声比实际晚了两秒。"
+        },
+        {
+          "id": "prophet-entry-0335",
+          "type": "LINE",
+          "content": "请在喝汤前，把汤勺在碗边轻轻刮一下。"
+        },
+        {
+          "id": "prophet-entry-0336",
+          "type": "LINE",
+          "content": "下周二，你会看见一个老人在公园里喂鸽子，鸽子绕着他飞。"
+        },
+        {
+          "id": "prophet-entry-0337",
+          "type": "LINE",
+          "content": "请把手机里的日历翻到2000年，再翻回来。"
+        },
+        {
+          "id": "prophet-entry-0338",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个没有重力的小房间里。"
+        },
+        {
+          "id": "prophet-entry-0339",
+          "type": "LINE",
+          "content": "请在穿外套时，先把两个袖子抖一抖。"
+        },
+        {
+          "id": "prophet-entry-0340",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己对颜色的敏感度提高了。"
+        },
+        {
+          "id": "prophet-entry-0341",
+          "type": "LINE",
+          "content": "请把铅笔尖轻轻在纸上点出三个点。"
+        },
+        {
+          "id": "prophet-entry-0342",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的肚子发出很轻的一声。"
+        },
+        {
+          "id": "prophet-entry-0343",
+          "type": "LINE",
+          "content": "请在乘公交时，坐在靠窗的位置，让风吹脸。"
+        },
+        {
+          "id": "prophet-entry-0344",
+          "type": "LINE",
+          "content": "下个月某天，你会看见一家店门口的风铃被风撞响。"
+        },
+        {
+          "id": "prophet-entry-0345",
+          "type": "LINE",
+          "content": "请把手机里的一个旧闹钟取消。"
+        },
+        {
+          "id": "prophet-entry-0346",
+          "type": "LINE",
+          "content": "未来某天，你会对着一瓶用了一半的墨水说“你变轻了”。"
+        },
+        {
+          "id": "prophet-entry-0347",
+          "type": "LINE",
+          "content": "请在挤牙膏时，从底部开始挤。"
+        },
+        {
+          "id": "prophet-entry-0348",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的头发在空调房里特别听话。"
+        },
+        {
+          "id": "prophet-entry-0349",
+          "type": "LINE",
+          "content": "请把窗台上的多肉转半圈。"
+        },
+        {
+          "id": "prophet-entry-0350",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个巨大的枕头堆里游泳。"
+        },
+        {
+          "id": "prophet-entry-0351",
+          "type": "LINE",
+          "content": "请在剥豆子时，把豆荚排成一条小船。"
+        },
+        {
+          "id": "prophet-entry-0352",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩蹲在地上看蚂蚁很久。"
+        },
+        {
+          "id": "prophet-entry-0353",
+          "type": "LINE",
+          "content": "请把用完的保鲜膜卷好。"
+        },
+        {
+          "id": "prophet-entry-0354",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件洗得发白的牛仔裤说“你陪着我去过很多地方”。"
+        },
+        {
+          "id": "prophet-entry-0355",
+          "type": "LINE",
+          "content": "请在睡前把袜口拉高，让脚踝保暖。"
+        },
+        {
+          "id": "prophet-entry-0356",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的阳光有蜂蜜的颜色。"
+        },
+        {
+          "id": "prophet-entry-0357",
+          "type": "LINE",
+          "content": "请把空易拉罐的拉环收起来。"
+        },
+        {
+          "id": "prophet-entry-0358",
+          "type": "LINE",
+          "content": "某天清晨，你会听见有鸟在你的窗外学你吹口哨。"
+        },
+        {
+          "id": "prophet-entry-0359",
+          "type": "LINE",
+          "content": "请在吃面包时，把面包皮先揭下来。"
+        },
+        {
+          "id": "prophet-entry-0360",
+          "type": "LINE",
+          "content": "下周二，你会看见一个陌生人对着自己的影子笑。"
+        },
+        {
+          "id": "prophet-entry-0361",
+          "type": "LINE",
+          "content": "请把冰箱里的剩菜盖上保鲜膜。"
+        },
+        {
+          "id": "prophet-entry-0362",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是玻璃的房间里走路，却不撞到。"
+        },
+        {
+          "id": "prophet-entry-0363",
+          "type": "LINE",
+          "content": "请在过马路时，数一数斑马线的白条。"
+        },
+        {
+          "id": "prophet-entry-0364",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看清很远处的招牌。"
+        },
+        {
+          "id": "prophet-entry-0365",
+          "type": "LINE",
+          "content": "请把洗手池里的水垢用手指擦掉一点。"
+        },
+        {
+          "id": "prophet-entry-0366",
+          "type": "LINE",
+          "content": "某天傍晚，你会看见天空有一种说不清的颜色。"
+        },
+        {
+          "id": "prophet-entry-0367",
+          "type": "LINE",
+          "content": "请在煮咖啡时，不喝，只闻。"
+        },
+        {
+          "id": "prophet-entry-0368",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个用打字机写字的人。"
+        },
+        {
+          "id": "prophet-entry-0369",
+          "type": "LINE",
+          "content": "请把衣柜里的衣服按颜色重新挂。"
+        },
+        {
+          "id": "prophet-entry-0370",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台没有墨的打印机说“你休息吧”。"
+        },
+        {
+          "id": "prophet-entry-0371",
+          "type": "LINE",
+          "content": "请在睡前把手机放在另一个房间。"
+        },
+        {
+          "id": "prophet-entry-0372",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的膝盖在弯曲时像新的一样。"
+        },
+        {
+          "id": "prophet-entry-0373",
+          "type": "LINE",
+          "content": "请把花盆里的落叶捡出来。"
+        },
+        {
+          "id": "prophet-entry-0374",
+          "type": "LINE",
+          "content": "某天你会突然想给一个很久不用的邮箱发一封信。"
+        },
+        {
+          "id": "prophet-entry-0375",
+          "type": "LINE",
+          "content": "请在洗碗时，让泡沫在手上多停一会儿。"
+        },
+        {
+          "id": "prophet-entry-0376",
+          "type": "LINE",
+          "content": "下周三，你会看见一只猫在车顶上晒太阳，眼睛眯成线。"
+        },
+        {
+          "id": "prophet-entry-0377",
+          "type": "LINE",
+          "content": "请把面包机里掉出的碎屑扫掉。"
+        },
+        {
+          "id": "prophet-entry-0378",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个长满青苔的楼梯上走。"
+        },
+        {
+          "id": "prophet-entry-0379",
+          "type": "LINE",
+          "content": "请在穿鞋前，先看看鞋底有没有小石子。"
+        },
+        {
+          "id": "prophet-entry-0380",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指能更好地分开。"
+        },
+        {
+          "id": "prophet-entry-0381",
+          "type": "LINE",
+          "content": "请把旧报纸上的广告折成纸飞机。"
+        },
+        {
+          "id": "prophet-entry-0382",
+          "type": "LINE",
+          "content": "某天清晨，你会听见送奶工的车轮声很轻。"
+        },
+        {
+          "id": "prophet-entry-0383",
+          "type": "LINE",
+          "content": "请在吃猕猴桃时，用小勺挖成球形。"
+        },
+        {
+          "id": "prophet-entry-0384",
+          "type": "LINE",
+          "content": "下周二，你会看见一个学生把书包放在长椅上，自己坐在旁边。"
+        },
+        {
+          "id": "prophet-entry-0385",
+          "type": "LINE",
+          "content": "请把家里的一个灯泡换下来，然后留着。"
+        },
+        {
+          "id": "prophet-entry-0386",
+          "type": "LINE",
+          "content": "未来某天，你会对着一面起雾的镜子写一个字。"
+        },
+        {
+          "id": "prophet-entry-0387",
+          "type": "LINE",
+          "content": "请在锁门后，把钥匙放进另一个口袋。"
+        },
+        {
+          "id": "prophet-entry-0388",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在灯光下更完整。"
+        },
+        {
+          "id": "prophet-entry-0389",
+          "type": "LINE",
+          "content": "请把空的酱油瓶倒过来放一晚。"
+        },
+        {
+          "id": "prophet-entry-0390",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个巨大的书架梯子上找一本会飞的书。"
+        },
+        {
+          "id": "prophet-entry-0391",
+          "type": "LINE",
+          "content": "请在吃葡萄时，把皮剥掉再吃。"
+        },
+        {
+          "id": "prophet-entry-0392",
+          "type": "LINE",
+          "content": "下个月初，你会看见一只松鼠把松果埋在你的花盆里。"
+        },
+        {
+          "id": "prophet-entry-0393",
+          "type": "LINE",
+          "content": "请把手机里一个不用的应用图标拖到另一个页面。"
+        },
+        {
+          "id": "prophet-entry-0394",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧风扇说“你转起来像在摇头”。"
+        },
+        {
+          "id": "prophet-entry-0395",
+          "type": "LINE",
+          "content": "请在穿雨衣时，把帽子翻出来再戴上。"
+        },
+        {
+          "id": "prophet-entry-0396",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的肩膀在背包时更轻松。"
+        },
+        {
+          "id": "prophet-entry-0397",
+          "type": "LINE",
+          "content": "请把吃剩的骨头用纸包好。"
+        },
+        {
+          "id": "prophet-entry-0398",
+          "type": "LINE",
+          "content": "某天清晨，你会听见窗户被风轻轻敲了三下。"
+        },
+        {
+          "id": "prophet-entry-0399",
+          "type": "LINE",
+          "content": "请在煮水时，看着水开始冒小泡。"
+        },
+        {
+          "id": "prophet-entry-0400",
+          "type": "LINE",
+          "content": "下周三，你会在地铁里看见一个座位上的报纸无人拿走。"
+        },
+        {
+          "id": "prophet-entry-0401",
+          "type": "LINE",
+          "content": "请把空的药瓶盖拧开又拧上。"
+        },
+        {
+          "id": "prophet-entry-0402",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个很大的空泳池里散步。"
+        },
+        {
+          "id": "prophet-entry-0403",
+          "type": "LINE",
+          "content": "请在关灯前，用手电筒照一下天花板。"
+        },
+        {
+          "id": "prophet-entry-0404",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼皮能更慢地眨。"
+        },
+        {
+          "id": "prophet-entry-0405",
+          "type": "LINE",
+          "content": "请把吃剩的蛋糕盒盖子拿掉。"
+        },
+        {
+          "id": "prophet-entry-0406",
+          "type": "LINE",
+          "content": "某天傍晚，你会看见一只狗趴在门槛上，像在等你。"
+        },
+        {
+          "id": "prophet-entry-0407",
+          "type": "LINE",
+          "content": "请在乘火车时，把票根夹进一本正在读的书。"
+        },
+        {
+          "id": "prophet-entry-0408",
+          "type": "LINE",
+          "content": "下周二，你会看见一个路牌在风中轻轻摇晃。"
+        },
+        {
+          "id": "prophet-entry-0409",
+          "type": "LINE",
+          "content": "请把旧衣服的标签剪掉。"
+        },
+        {
+          "id": "prophet-entry-0410",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你的光很温柔”。"
+        },
+        {
+          "id": "prophet-entry-0411",
+          "type": "LINE",
+          "content": "请在洗澡时，用洗发水在镜子上画一个圈。"
+        },
+        {
+          "id": "prophet-entry-0412",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚底在地板上特别敏感。"
+        },
+        {
+          "id": "prophet-entry-0413",
+          "type": "LINE",
+          "content": "请把空的面巾纸盒拆开压平。"
+        },
+        {
+          "id": "prophet-entry-0414",
+          "type": "LINE",
+          "content": "某天清晨，你会听见电梯在远处叮一声。"
+        },
+        {
+          "id": "prophet-entry-0415",
+          "type": "LINE",
+          "content": "请在吃梨时，把核留下埋进土里。"
+        },
+        {
+          "id": "prophet-entry-0416",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个大人蹲下来和孩子一样高说话。"
+        },
+        {
+          "id": "prophet-entry-0417",
+          "type": "LINE",
+          "content": "请把手机里的天气城市改成另一个城市。"
+        },
+        {
+          "id": "prophet-entry-0418",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个被窝里听外面的风声。"
+        },
+        {
+          "id": "prophet-entry-0419",
+          "type": "LINE",
+          "content": "请在出门前，把家里的植物喷一点水。"
+        },
+        {
+          "id": "prophet-entry-0420",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在肥皂水里特别滑。"
+        },
+        {
+          "id": "prophet-entry-0421",
+          "type": "LINE",
+          "content": "请把旧的购物小票撕成两半。"
+        },
+        {
+          "id": "prophet-entry-0422",
+          "type": "LINE",
+          "content": "某天你会突然想给一面空墙贴一张纸。"
+        },
+        {
+          "id": "prophet-entry-0423",
+          "type": "LINE",
+          "content": "请在刷牙后，用舌头舔一下门牙。"
+        },
+        {
+          "id": "prophet-entry-0424",
+          "type": "LINE",
+          "content": "下周三，你会看见一只鸟停在消防车的云梯上。"
+        },
+        {
+          "id": "prophet-entry-0425",
+          "type": "LINE",
+          "content": "请把冰箱里的蛋盒拿出来数一遍。"
+        },
+        {
+          "id": "prophet-entry-0426",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台计算器按出你的生日。"
+        },
+        {
+          "id": "prophet-entry-0427",
+          "type": "LINE",
+          "content": "请在睡前把被角掖好。"
+        },
+        {
+          "id": "prophet-entry-0428",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看到灰尘在光里的轨迹。"
+        },
+        {
+          "id": "prophet-entry-0429",
+          "type": "LINE",
+          "content": "请把空的果酱瓶洗干净。"
+        },
+        {
+          "id": "prophet-entry-0430",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是糖果的房间里，但不想吃。"
+        },
+        {
+          "id": "prophet-entry-0431",
+          "type": "LINE",
+          "content": "请在爬楼梯时，数到第七级停下来。"
+        },
+        {
+          "id": "prophet-entry-0432",
+          "type": "LINE",
+          "content": "下周二，你会看见一个骑自行车的人车筐里有一束花。"
+        },
+        {
+          "id": "prophet-entry-0433",
+          "type": "LINE",
+          "content": "请把窗台上一小片鸟粪擦掉。"
+        },
+        {
+          "id": "prophet-entry-0434",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧毛衣说“你该休息了”。"
+        },
+        {
+          "id": "prophet-entry-0435",
+          "type": "LINE",
+          "content": "请在喝饮料时，用吸管吹一个泡。"
+        },
+        {
+          "id": "prophet-entry-0436",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的头发在洗澡时掉得少了。"
+        },
+        {
+          "id": "prophet-entry-0437",
+          "type": "LINE",
+          "content": "请把不用的鞋带系在门把手上。"
+        },
+        {
+          "id": "prophet-entry-0438",
+          "type": "LINE",
+          "content": "某天清晨，你会听见远处有琴声断断续续。"
+        },
+        {
+          "id": "prophet-entry-0439",
+          "type": "LINE",
+          "content": "请在煮面时，把面条用筷子挑起来看长度。"
+        },
+        {
+          "id": "prophet-entry-0440",
+          "type": "LINE",
+          "content": "下个月某天，你会看见一只猫在书店门口睡觉。"
+        },
+        {
+          "id": "prophet-entry-0441",
+          "type": "LINE",
+          "content": "请把空的洗发水瓶倒着放，挤出最后一点。"
+        },
+        {
+          "id": "prophet-entry-0442",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个很长的走廊里拍气球。"
+        },
+        {
+          "id": "prophet-entry-0443",
+          "type": "LINE",
+          "content": "请在戴围巾时，把结打在侧面。"
+        },
+        {
+          "id": "prophet-entry-0444",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手腕在转圈时更顺。"
+        },
+        {
+          "id": "prophet-entry-0445",
+          "type": "LINE",
+          "content": "请把旧课本翻开，看看自己以前的笔记。"
+        },
+        {
+          "id": "prophet-entry-0446",
+          "type": "LINE",
+          "content": "某天傍晚，你会看见云朵像被撕开的棉花。"
+        },
+        {
+          "id": "prophet-entry-0447",
+          "type": "LINE",
+          "content": "请在吃火锅时，把一片肉涮到刚变色就夹起。"
+        },
+        {
+          "id": "prophet-entry-0448",
+          "type": "LINE",
+          "content": "下周三，你会在地铁里看见一个用手机看天气的人。"
+        },
+        {
+          "id": "prophet-entry-0449",
+          "type": "LINE",
+          "content": "请把床上的玩偶摆正。"
+        },
+        {
+          "id": "prophet-entry-0450",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏床头灯说“晚安”。"
+        },
+        {
+          "id": "prophet-entry-0451",
+          "type": "LINE",
+          "content": "请在洗手后，用毛巾擦干每个指缝。"
+        },
+        {
+          "id": "prophet-entry-0452",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾头在鞋里能动得更开。"
+        },
+        {
+          "id": "prophet-entry-0453",
+          "type": "LINE",
+          "content": "请把空的猫粮碗拿起来看底部。"
+        },
+        {
+          "id": "prophet-entry-0454",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的呼吸和窗外鸟叫合拍。"
+        },
+        {
+          "id": "prophet-entry-0455",
+          "type": "LINE",
+          "content": "请在吃冰淇淋蛋筒时，从尖咬起。"
+        },
+        {
+          "id": "prophet-entry-0456",
+          "type": "LINE",
+          "content": "下周二，你会看见一个小孩在数自己攒的玻璃珠。"
+        },
+        {
+          "id": "prophet-entry-0457",
+          "type": "LINE",
+          "content": "请把手机壳拆下来，看看背面积了多少灰。"
+        },
+        {
+          "id": "prophet-entry-0458",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个只有绿色的房间里。"
+        },
+        {
+          "id": "prophet-entry-0459",
+          "type": "LINE",
+          "content": "请在关门时，用脚轻轻把门带上。"
+        },
+        {
+          "id": "prophet-entry-0460",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的声音在空房间里更好听。"
+        },
+        {
+          "id": "prophet-entry-0461",
+          "type": "LINE",
+          "content": "请把桌子上的笔按长短排列。"
+        },
+        {
+          "id": "prophet-entry-0462",
+          "type": "LINE",
+          "content": "某天你会突然想给一个朋友发一个句号。"
+        },
+        {
+          "id": "prophet-entry-0463",
+          "type": "LINE",
+          "content": "请在剥鸡蛋时，把壳完整剥下。"
+        },
+        {
+          "id": "prophet-entry-0464",
+          "type": "LINE",
+          "content": "下个月初，你会看见一只鸟在雨中洗澡。"
+        },
+        {
+          "id": "prophet-entry-0465",
+          "type": "LINE",
+          "content": "请把冰箱里结的霜用手指划一道。"
+        },
+        {
+          "id": "prophet-entry-0466",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台挂钟说“别催我”。"
+        },
+        {
+          "id": "prophet-entry-0467",
+          "type": "LINE",
+          "content": "请在睡前把枕头翻个面。"
+        },
+        {
+          "id": "prophet-entry-0468",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的耳朵能听见更小的声音。"
+        },
+        {
+          "id": "prophet-entry-0469",
+          "type": "LINE",
+          "content": "请把空的塑料盒盖好。"
+        },
+        {
+          "id": "prophet-entry-0470",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个很大的碗里洗碗。"
+        },
+        {
+          "id": "prophet-entry-0471",
+          "type": "LINE",
+          "content": "请在穿运动鞋时，把鞋带系成双环。"
+        },
+        {
+          "id": "prophet-entry-0472",
+          "type": "LINE",
+          "content": "下周三，你会看见一个老人在阳台上浇一盆没有花的花。"
+        },
+        {
+          "id": "prophet-entry-0473",
+          "type": "LINE",
+          "content": "请把面包上的芝麻用指尖沾起来。"
+        },
+        {
+          "id": "prophet-entry-0474",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧校服说“你装过我的青春”。"
+        },
+        {
+          "id": "prophet-entry-0475",
+          "type": "LINE",
+          "content": "请在喝热牛奶时，先吹三下。"
+        },
+        {
+          "id": "prophet-entry-0476",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的月亮特别近。"
+        },
+        {
+          "id": "prophet-entry-0477",
+          "type": "LINE",
+          "content": "请把用完的笔芯插回笔套。"
+        },
+        {
+          "id": "prophet-entry-0478",
+          "type": "LINE",
+          "content": "某天清晨，你会听见楼下有扫帚扫地的声音。"
+        },
+        {
+          "id": "prophet-entry-0479",
+          "type": "LINE",
+          "content": "请在吃草莓时，把叶子摘掉。"
+        },
+        {
+          "id": "prophet-entry-0480",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在追自己的尾巴，追到了。"
+        },
+        {
+          "id": "prophet-entry-0481",
+          "type": "LINE",
+          "content": "请把空的面包袋用夹子夹好。"
+        },
+        {
+          "id": "prophet-entry-0482",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是枕头的房间里蹦跳。"
+        },
+        {
+          "id": "prophet-entry-0483",
+          "type": "LINE",
+          "content": "请在洗手时，让冷水先流三秒。"
+        },
+        {
+          "id": "prophet-entry-0484",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在中午特别短。"
+        },
+        {
+          "id": "prophet-entry-0485",
+          "type": "LINE",
+          "content": "请把桌上的碎纸片扫进手里。"
+        },
+        {
+          "id": "prophet-entry-0486",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆花唱歌。"
+        },
+        {
+          "id": "prophet-entry-0487",
+          "type": "LINE",
+          "content": "请在煮饺子时，看它们一个个浮起来。"
+        },
+        {
+          "id": "prophet-entry-0488",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个用拐杖的人走得很快。"
+        },
+        {
+          "id": "prophet-entry-0489",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片设为壁纸。"
+        },
+        {
+          "id": "prophet-entry-0490",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧冰箱说“你陪伴了很多年”。"
+        },
+        {
+          "id": "prophet-entry-0491",
+          "type": "LINE",
+          "content": "请在睡前把房间里的一个灯打开。"
+        },
+        {
+          "id": "prophet-entry-0492",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眉毛能挑得更高。"
+        },
+        {
+          "id": "prophet-entry-0493",
+          "type": "LINE",
+          "content": "请把空的沐浴露瓶竖着放。"
+        },
+        {
+          "id": "prophet-entry-0494",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是镜子的迷宫里。"
+        },
+        {
+          "id": "prophet-entry-0495",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把香蕉皮弯成桥。"
+        },
+        {
+          "id": "prophet-entry-0496",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在雨中故意踩水。"
+        },
+        {
+          "id": "prophet-entry-0497",
+          "type": "LINE",
+          "content": "请把书架上的书按高度排。"
+        },
+        {
+          "id": "prophet-entry-0498",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台没有信号的电视说“雪花很美”。"
+        },
+        {
+          "id": "prophet-entry-0499",
+          "type": "LINE",
+          "content": "请在出门前，摸一下门框。"
+        },
+        {
+          "id": "prophet-entry-0500",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在冷空气中更清晰。"
+        },
+        {
+          "id": "prophet-entry-0501",
+          "type": "LINE",
+          "content": "请把吃剩的披萨边放回盒子里。"
+        },
+        {
+          "id": "prophet-entry-0502",
+          "type": "LINE",
+          "content": "某天清晨，你会听见手机在另一个房间震动。"
+        },
+        {
+          "id": "prophet-entry-0503",
+          "type": "LINE",
+          "content": "请在煮咖啡前，闻一闻咖啡粉。"
+        },
+        {
+          "id": "prophet-entry-0504",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟在树枝上走钢丝。"
+        },
+        {
+          "id": "prophet-entry-0505",
+          "type": "LINE",
+          "content": "请把旧衣服上的线头剪掉。"
+        },
+        {
+          "id": "prophet-entry-0506",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个书页做的帐篷里。"
+        },
+        {
+          "id": "prophet-entry-0507",
+          "type": "LINE",
+          "content": "请在乘地铁时，拉住一个环，数到十。"
+        },
+        {
+          "id": "prophet-entry-0508",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在口袋里特别暖。"
+        },
+        {
+          "id": "prophet-entry-0509",
+          "type": "LINE",
+          "content": "请把空的纸巾盒翻过来。"
+        },
+        {
+          "id": "prophet-entry-0510",
+          "type": "LINE",
+          "content": "某天你会突然想给一个不存在的地址寄明信片。"
+        },
+        {
+          "id": "prophet-entry-0511",
+          "type": "LINE",
+          "content": "请在洗澡时，把洗发水挤成一个小山。"
+        },
+        {
+          "id": "prophet-entry-0512",
+          "type": "LINE",
+          "content": "下个月初，你会看见一只蝴蝶停在你的鞋上。"
+        },
+        {
+          "id": "prophet-entry-0513",
+          "type": "LINE",
+          "content": "请把过期杂志的封面撕下来折成小船。"
+        },
+        {
+          "id": "prophet-entry-0514",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏声控灯说“嘿”。"
+        },
+        {
+          "id": "prophet-entry-0515",
+          "type": "LINE",
+          "content": "请在睡前把被子的四个角抻平。"
+        },
+        {
+          "id": "prophet-entry-0516",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的耳垂在冬天更凉。"
+        },
+        {
+          "id": "prophet-entry-0517",
+          "type": "LINE",
+          "content": "请把吃完的冰棍棒洗干净收起来。"
+        },
+        {
+          "id": "prophet-entry-0518",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个没有尽头的自动扶梯上。"
+        },
+        {
+          "id": "prophet-entry-0519",
+          "type": "LINE",
+          "content": "请在刷牙时，把牙刷在门牙上多停两秒。"
+        },
+        {
+          "id": "prophet-entry-0520",
+          "type": "LINE",
+          "content": "下周三，你会看见一个学生用粉笔在地上画房子。"
+        },
+        {
+          "id": "prophet-entry-0521",
+          "type": "LINE",
+          "content": "请把手机充电线用小夹子固定在桌边。"
+        },
+        {
+          "id": "prophet-entry-0522",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台老式缝纫机说“你缝过多少梦”。"
+        },
+        {
+          "id": "prophet-entry-0523",
+          "type": "LINE",
+          "content": "请在穿外套时，先扣最后一颗扣子。"
+        },
+        {
+          "id": "prophet-entry-0524",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在琴键上能跳得更快。"
+        },
+        {
+          "id": "prophet-entry-0525",
+          "type": "LINE",
+          "content": "请把空的茶叶罐打开，闻里面的余香。"
+        },
+        {
+          "id": "prophet-entry-0526",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟儿在讨论什么。"
+        },
+        {
+          "id": "prophet-entry-0527",
+          "type": "LINE",
+          "content": "请在吃西瓜时，把籽吐在餐巾纸上排成行。"
+        },
+        {
+          "id": "prophet-entry-0528",
+          "type": "LINE",
+          "content": "下周二，你会看见一个老人牵着气球，气球飘得比他高。"
+        },
+        {
+          "id": "prophet-entry-0529",
+          "type": "LINE",
+          "content": "请把床底的鞋拿出来摆整齐。"
+        },
+        {
+          "id": "prophet-entry-0530",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是毛绒玩具的房间里。"
+        },
+        {
+          "id": "prophet-entry-0531",
+          "type": "LINE",
+          "content": "请在洗手后，用湿手在镜子上写一个“你好”。"
+        },
+        {
+          "id": "prophet-entry-0532",
+          "type": "LINE",
+          "content": "三日后，你会觉得今天的风是从海上吹来的。"
+        },
+        {
+          "id": "prophet-entry-0533",
+          "type": "LINE",
+          "content": "请把空的鸡蛋盒剪开。"
+        },
+        {
+          "id": "prophet-entry-0534",
+          "type": "LINE",
+          "content": "某天你会突然想给阳台上的蚂蚁让路。"
+        },
+        {
+          "id": "prophet-entry-0535",
+          "type": "LINE",
+          "content": "请在煮汤时，把浮沫撇掉。"
+        },
+        {
+          "id": "prophet-entry-0536",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人戴着手套打键盘。"
+        },
+        {
+          "id": "prophet-entry-0537",
+          "type": "LINE",
+          "content": "请把旧相册抽出来，用手摩挲封面。"
+        },
+        {
+          "id": "prophet-entry-0538",
+          "type": "LINE",
+          "content": "未来某天，你会对着一株绿萝说“你长得不错”。"
+        },
+        {
+          "id": "prophet-entry-0539",
+          "type": "LINE",
+          "content": "请在睡前把拖鞋摆成一个小圆圈。"
+        },
+        {
+          "id": "prophet-entry-0540",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的肩膀能更放松。"
+        },
+        {
+          "id": "prophet-entry-0541",
+          "type": "LINE",
+          "content": "请把废纸团成球，在桌上滚。"
+        },
+        {
+          "id": "prophet-entry-0542",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个没有屋顶的电梯里上升。"
+        },
+        {
+          "id": "prophet-entry-0543",
+          "type": "LINE",
+          "content": "请在吃橘子时，把橘子皮放在暖气片上。"
+        },
+        {
+          "id": "prophet-entry-0544",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在公园里倒着走路。"
+        },
+        {
+          "id": "prophet-entry-0545",
+          "type": "LINE",
+          "content": "请把手机里的闹钟铃声换成鸟叫。"
+        },
+        {
+          "id": "prophet-entry-0546",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电扇说“你转得我头晕”。"
+        },
+        {
+          "id": "prophet-entry-0547",
+          "type": "LINE",
+          "content": "请在出门前，把窗帘拉上一半。"
+        },
+        {
+          "id": "prophet-entry-0548",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的鞋底更软了。"
+        },
+        {
+          "id": "prophet-entry-0549",
+          "type": "LINE",
+          "content": "请把用完的墨囊插回笔杆。"
+        },
+        {
+          "id": "prophet-entry-0550",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的肚子叫了一声。"
+        },
+        {
+          "id": "prophet-entry-0551",
+          "type": "LINE",
+          "content": "请在吃薯片时，把最小的那片留到最后。"
+        },
+        {
+          "id": "prophet-entry-0552",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟在你的窗外整理羽毛。"
+        },
+        {
+          "id": "prophet-entry-0553",
+          "type": "LINE",
+          "content": "请把空的塑料瓶放进回收袋。"
+        },
+        {
+          "id": "prophet-entry-0554",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个所有门都虚掩的房子里。"
+        },
+        {
+          "id": "prophet-entry-0555",
+          "type": "LINE",
+          "content": "请在戴帽子时，把帽檐往下压一点。"
+        },
+        {
+          "id": "prophet-entry-0556",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能更久地盯着一个点。"
+        },
+        {
+          "id": "prophet-entry-0557",
+          "type": "LINE",
+          "content": "请把吃剩的果皮收集在一个小碗里。"
+        },
+        {
+          "id": "prophet-entry-0558",
+          "type": "LINE",
+          "content": "某天你会突然想给一扇旧门刷一层油。"
+        },
+        {
+          "id": "prophet-entry-0559",
+          "type": "LINE",
+          "content": "请在煮米饭时，多放一点点水。"
+        },
+        {
+          "id": "prophet-entry-0560",
+          "type": "LINE",
+          "content": "下个月初，你会看见一只猫坐在一辆车的引擎盖上。"
+        },
+        {
+          "id": "prophet-entry-0561",
+          "type": "LINE",
+          "content": "请把手机里的一个联系人头像换成空白。"
+        },
+        {
+          "id": "prophet-entry-0562",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏路灯说“你站得累不累”。"
+        },
+        {
+          "id": "prophet-entry-0563",
+          "type": "LINE",
+          "content": "请在睡前把头发绑成很松的辫子。"
+        },
+        {
+          "id": "prophet-entry-0564",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚踝在走路时更灵活。"
+        },
+        {
+          "id": "prophet-entry-0565",
+          "type": "LINE",
+          "content": "请把空的洗衣液瓶盖拧开再拧上。"
+        },
+        {
+          "id": "prophet-entry-0566",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个冰淇淋融化的海边。"
+        },
+        {
+          "id": "prophet-entry-0567",
+          "type": "LINE",
+          "content": "请在乘公交时，把硬币在手里捂热。"
+        },
+        {
+          "id": "prophet-entry-0568",
+          "type": "LINE",
+          "content": "下周三，你会看见一个陌生人帮你扶了一下门。"
+        },
+        {
+          "id": "prophet-entry-0569",
+          "type": "LINE",
+          "content": "请把书桌上的笔都放进笔筒。"
+        },
+        {
+          "id": "prophet-entry-0570",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏掉的手机说“你已经尽力了”。"
+        },
+        {
+          "id": "prophet-entry-0571",
+          "type": "LINE",
+          "content": "请在洗手时，把水开到最小，看它流。"
+        },
+        {
+          "id": "prophet-entry-0572",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的后背在伸展时更舒服。"
+        },
+        {
+          "id": "prophet-entry-0573",
+          "type": "LINE",
+          "content": "请把空的啤酒瓶放在门口。"
+        },
+        {
+          "id": "prophet-entry-0574",
+          "type": "LINE",
+          "content": "某天清晨，你会听见远处有船鸣。"
+        },
+        {
+          "id": "prophet-entry-0575",
+          "type": "LINE",
+          "content": "请在吃面条时，吸出声音。"
+        },
+        {
+          "id": "prophet-entry-0576",
+          "type": "LINE",
+          "content": "下周二，你会看见一个小孩在草地上打滚。"
+        },
+        {
+          "id": "prophet-entry-0577",
+          "type": "LINE",
+          "content": "请把手机里的日历提醒全部关掉。"
+        },
+        {
+          "id": "prophet-entry-0578",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是纸船的浴缸里。"
+        },
+        {
+          "id": "prophet-entry-0579",
+          "type": "LINE",
+          "content": "请在穿裤子时，先把两条腿套进去再提。"
+        },
+        {
+          "id": "prophet-entry-0580",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的瞳孔能更大。"
+        },
+        {
+          "id": "prophet-entry-0581",
+          "type": "LINE",
+          "content": "请把空的纸巾筒当望远镜看窗外。"
+        },
+        {
+          "id": "prophet-entry-0582",
+          "type": "LINE",
+          "content": "某天你会突然想给一个很久没打的电话拨过去。"
+        },
+        {
+          "id": "prophet-entry-0583",
+          "type": "LINE",
+          "content": "请在煮蛋后，把蛋放在冷水里。"
+        },
+        {
+          "id": "prophet-entry-0584",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个雨后的水洼里有云。"
+        },
+        {
+          "id": "prophet-entry-0585",
+          "type": "LINE",
+          "content": "请把旧袜子的球剪掉。"
+        },
+        {
+          "id": "prophet-entry-0586",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏感应灯说“谢谢”。"
+        },
+        {
+          "id": "prophet-entry-0587",
+          "type": "LINE",
+          "content": "请在睡前把今天的烦恼写在纸上然后揉掉。"
+        },
+        {
+          "id": "prophet-entry-0588",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在树下特别凉快。"
+        },
+        {
+          "id": "prophet-entry-0589",
+          "type": "LINE",
+          "content": "请把面包机里的面包片跳出来时接住。"
+        },
+        {
+          "id": "prophet-entry-0590",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是雨伞的房间里。"
+        },
+        {
+          "id": "prophet-entry-0591",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果转着圈啃。"
+        },
+        {
+          "id": "prophet-entry-0592",
+          "type": "LINE",
+          "content": "下周三，你会看见一个学生用笔转出花。"
+        },
+        {
+          "id": "prophet-entry-0593",
+          "type": "LINE",
+          "content": "请把空的酸奶瓶盖撕开。"
+        },
+        {
+          "id": "prophet-entry-0594",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧外套说“你挡过很多风”。"
+        },
+        {
+          "id": "prophet-entry-0595",
+          "type": "LINE",
+          "content": "请在出门时，把门锁拧两圈。"
+        },
+        {
+          "id": "prophet-entry-0596",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚后跟在鞋里不磨了。"
+        },
+        {
+          "id": "prophet-entry-0597",
+          "type": "LINE",
+          "content": "请把抽屉里的硬币按年份排。"
+        },
+        {
+          "id": "prophet-entry-0598",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的呼吸在镜子上形成雾。"
+        },
+        {
+          "id": "prophet-entry-0599",
+          "type": "LINE",
+          "content": "请在煮咖啡时，加一点盐。"
+        },
+        {
+          "id": "prophet-entry-0600",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟在路灯上梳理羽毛。"
+        },
+        {
+          "id": "prophet-entry-0601",
+          "type": "LINE",
+          "content": "请把吃剩的巧克力包装纸折成小方块。"
+        },
+        {
+          "id": "prophet-entry-0602",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是气球的房间里，气球一个接一个破。"
+        },
+        {
+          "id": "prophet-entry-0603",
+          "type": "LINE",
+          "content": "请在乘地铁时，站在两节车厢的连接处。"
+        },
+        {
+          "id": "prophet-entry-0604",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手臂能更舒展。"
+        },
+        {
+          "id": "prophet-entry-0605",
+          "type": "LINE",
+          "content": "请把空的饮料瓶冲洗一下。"
+        },
+        {
+          "id": "prophet-entry-0606",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙重新刷漆。"
+        },
+        {
+          "id": "prophet-entry-0607",
+          "type": "LINE",
+          "content": "请在洗澡时，把水从脖子流下。"
+        },
+        {
+          "id": "prophet-entry-0608",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖气球的人，气球飞走一个。"
+        },
+        {
+          "id": "prophet-entry-0609",
+          "type": "LINE",
+          "content": "请把手机里的一个旧软件打开。"
+        },
+        {
+          "id": "prophet-entry-0610",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台微波炉说“叮”。"
+        },
+        {
+          "id": "prophet-entry-0611",
+          "type": "LINE",
+          "content": "请在睡前把床单拉平。"
+        },
+        {
+          "id": "prophet-entry-0612",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的耳朵能分辨更多声音。"
+        },
+        {
+          "id": "prophet-entry-0613",
+          "type": "LINE",
+          "content": "请把用完的电池用胶带缠一下。"
+        },
+        {
+          "id": "prophet-entry-0614",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是线的房间里。"
+        },
+        {
+          "id": "prophet-entry-0615",
+          "type": "LINE",
+          "content": "请在吃玉米时，用双手捧住。"
+        },
+        {
+          "id": "prophet-entry-0616",
+          "type": "LINE",
+          "content": "下周三，你会看见一个女孩在公园里吹泡泡。"
+        },
+        {
+          "id": "prophet-entry-0617",
+          "type": "LINE",
+          "content": "请把旧报纸卷成筒。"
+        },
+        {
+          "id": "prophet-entry-0618",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏忽明忽暗的灯说“你在呼吸”。"
+        },
+        {
+          "id": "prophet-entry-0619",
+          "type": "LINE",
+          "content": "请在出门前，把鞋带系成蝴蝶结。"
+        },
+        {
+          "id": "prophet-entry-0620",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的膝盖在下蹲时更稳。"
+        },
+        {
+          "id": "prophet-entry-0621",
+          "type": "LINE",
+          "content": "请把空的巧克力盒留着。"
+        },
+        {
+          "id": "prophet-entry-0622",
+          "type": "LINE",
+          "content": "某天清晨，你会听见水管里有水滴声。"
+        },
+        {
+          "id": "prophet-entry-0623",
+          "type": "LINE",
+          "content": "请在吃汉堡时，把面包片分开。"
+        },
+        {
+          "id": "prophet-entry-0624",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫从高处跳下，稳稳落地。"
+        },
+        {
+          "id": "prophet-entry-0625",
+          "type": "LINE",
+          "content": "请把手机里的壁纸换成大海。"
+        },
+        {
+          "id": "prophet-entry-0626",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是沙子的房间里堆城堡。"
+        },
+        {
+          "id": "prophet-entry-0627",
+          "type": "LINE",
+          "content": "请在洗袜子时，搓出泡沫。"
+        },
+        {
+          "id": "prophet-entry-0628",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指能更快地打字。"
+        },
+        {
+          "id": "prophet-entry-0629",
+          "type": "LINE",
+          "content": "请把空的茶叶包用夹子夹住。"
+        },
+        {
+          "id": "prophet-entry-0630",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆仙人掌换土。"
+        },
+        {
+          "id": "prophet-entry-0631",
+          "type": "LINE",
+          "content": "请在煮粥时，搅拌到粘稠。"
+        },
+        {
+          "id": "prophet-entry-0632",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人抱着一个枕头。"
+        },
+        {
+          "id": "prophet-entry-0633",
+          "type": "LINE",
+          "content": "请把旧杂志里的广告页撕掉。"
+        },
+        {
+          "id": "prophet-entry-0634",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧缝纫机踩踏板。"
+        },
+        {
+          "id": "prophet-entry-0635",
+          "type": "LINE",
+          "content": "请在睡前把床头的闹钟转过去。"
+        },
+        {
+          "id": "prophet-entry-0636",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在冷水中更敏感。"
+        },
+        {
+          "id": "prophet-entry-0637",
+          "type": "LINE",
+          "content": "请把空的果冻盒摞起来。"
+        },
+        {
+          "id": "prophet-entry-0638",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个没有声音的城市里走。"
+        },
+        {
+          "id": "prophet-entry-0639",
+          "type": "LINE",
+          "content": "请在吃樱桃时，把核吐在纸巾上。"
+        },
+        {
+          "id": "prophet-entry-0640",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在荡秋千，荡得很高。"
+        },
+        {
+          "id": "prophet-entry-0641",
+          "type": "LINE",
+          "content": "请把冰箱里的饮料按高矮排。"
+        },
+        {
+          "id": "prophet-entry-0642",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台老式收音机说“你还有多少频道”。"
+        },
+        {
+          "id": "prophet-entry-0643",
+          "type": "LINE",
+          "content": "请在戴手套时，先戴右手。"
+        },
+        {
+          "id": "prophet-entry-0644",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能更快聚焦。"
+        },
+        {
+          "id": "prophet-entry-0645",
+          "type": "LINE",
+          "content": "请把空的洗发水瓶倒过来压几下。"
+        },
+        {
+          "id": "prophet-entry-0646",
+          "type": "LINE",
+          "content": "某天清晨，你会听见远处的教堂钟声。"
+        },
+        {
+          "id": "prophet-entry-0647",
+          "type": "LINE",
+          "content": "请在吃冰淇淋时，让它在舌尖融化。"
+        },
+        {
+          "id": "prophet-entry-0648",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在草地上打滚。"
+        },
+        {
+          "id": "prophet-entry-0649",
+          "type": "LINE",
+          "content": "请把手机里的一个未读消息点开。"
+        },
+        {
+          "id": "prophet-entry-0650",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是书的隧道里爬行。"
+        },
+        {
+          "id": "prophet-entry-0651",
+          "type": "LINE",
+          "content": "请在洗手后，用毛巾把水擦干。"
+        },
+        {
+          "id": "prophet-entry-0652",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在夕阳下被拉长。"
+        },
+        {
+          "id": "prophet-entry-0653",
+          "type": "LINE",
+          "content": "请把空的塑料瓶踩扁。"
+        },
+        {
+          "id": "prophet-entry-0654",
+          "type": "LINE",
+          "content": "某天你会突然想给一个陌生人一个微笑。"
+        },
+        {
+          "id": "prophet-entry-0655",
+          "type": "LINE",
+          "content": "请在煮饺子时，加三次凉水。"
+        },
+        {
+          "id": "prophet-entry-0656",
+          "type": "LINE",
+          "content": "下个月初，你会看见一只蝴蝶在花丛里停留。"
+        },
+        {
+          "id": "prophet-entry-0657",
+          "type": "LINE",
+          "content": "请把旧衣服的口袋翻出来。"
+        },
+        {
+          "id": "prophet-entry-0658",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏了的钟说“时间停了”。"
+        },
+        {
+          "id": "prophet-entry-0659",
+          "type": "LINE",
+          "content": "请在睡前把窗户留一个小缝。"
+        },
+        {
+          "id": "prophet-entry-0660",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在跑步后更平稳。"
+        },
+        {
+          "id": "prophet-entry-0661",
+          "type": "LINE",
+          "content": "请把吃剩的鸡骨头用纸包好。"
+        },
+        {
+          "id": "prophet-entry-0662",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是按钮的房间里。"
+        },
+        {
+          "id": "prophet-entry-0663",
+          "type": "LINE",
+          "content": "请在穿鞋时，用鞋拔子。"
+        },
+        {
+          "id": "prophet-entry-0664",
+          "type": "LINE",
+          "content": "下周三，你会看见一个老人坐在长椅上喂鸟。"
+        },
+        {
+          "id": "prophet-entry-0665",
+          "type": "LINE",
+          "content": "请把手机里的通话记录清空。"
+        },
+        {
+          "id": "prophet-entry-0666",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你的光很暖”。"
+        },
+        {
+          "id": "prophet-entry-0667",
+          "type": "LINE",
+          "content": "请在出门前，把钥匙在手里颠三下。"
+        },
+        {
+          "id": "prophet-entry-0668",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾甲长了。"
+        },
+        {
+          "id": "prophet-entry-0669",
+          "type": "LINE",
+          "content": "请把空的牛奶瓶冲洗干净。"
+        },
+        {
+          "id": "prophet-entry-0670",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的闹钟响第一声就醒来。"
+        },
+        {
+          "id": "prophet-entry-0671",
+          "type": "LINE",
+          "content": "请在吃薯条时，不蘸酱吃两根。"
+        },
+        {
+          "id": "prophet-entry-0672",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在窗台上舔爪子。"
+        },
+        {
+          "id": "prophet-entry-0673",
+          "type": "LINE",
+          "content": "请把旧报纸上的字剪下来。"
+        },
+        {
+          "id": "prophet-entry-0674",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是钟表的房间里，钟摆不同步。"
+        },
+        {
+          "id": "prophet-entry-0675",
+          "type": "LINE",
+          "content": "请在洗澡时，用海绵擦背。"
+        },
+        {
+          "id": "prophet-entry-0676",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指能更灵活地弯曲。"
+        },
+        {
+          "id": "prophet-entry-0677",
+          "type": "LINE",
+          "content": "请把空的果酱罐当杯子用。"
+        },
+        {
+          "id": "prophet-entry-0678",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙壁贴满便利贴。"
+        },
+        {
+          "id": "prophet-entry-0679",
+          "type": "LINE",
+          "content": "请在煮鸡蛋时，用勺子敲蛋壳。"
+        },
+        {
+          "id": "prophet-entry-0680",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人拿着一束蔫掉的花。"
+        },
+        {
+          "id": "prophet-entry-0681",
+          "type": "LINE",
+          "content": "请把手机里的天气提醒关掉。"
+        },
+        {
+          "id": "prophet-entry-0682",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧衬衫说“你褶了”。"
+        },
+        {
+          "id": "prophet-entry-0683",
+          "type": "LINE",
+          "content": "请在睡前把窗帘完全拉开，看星星。"
+        },
+        {
+          "id": "prophet-entry-0684",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在沙滩上更舒服。"
+        },
+        {
+          "id": "prophet-entry-0685",
+          "type": "LINE",
+          "content": "请把空的酸奶盒洗干净。"
+        },
+        {
+          "id": "prophet-entry-0686",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是羽毛的床上。"
+        },
+        {
+          "id": "prophet-entry-0687",
+          "type": "LINE",
+          "content": "请在吃苹果时，削出一条完整的皮。"
+        },
+        {
+          "id": "prophet-entry-0688",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在吹蒲公英。"
+        },
+        {
+          "id": "prophet-entry-0689",
+          "type": "LINE",
+          "content": "请把抽屉里的旧名片扔掉。"
+        },
+        {
+          "id": "prophet-entry-0690",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电视说“你还能收到什么”。"
+        },
+        {
+          "id": "prophet-entry-0691",
+          "type": "LINE",
+          "content": "请在乘电梯时，对电梯说“谢谢”。"
+        },
+        {
+          "id": "prophet-entry-0692",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛在看远处时更清楚。"
+        },
+        {
+          "id": "prophet-entry-0693",
+          "type": "LINE",
+          "content": "请把空的牙膏管剪开。"
+        },
+        {
+          "id": "prophet-entry-0694",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟在窗外叫你的名字。"
+        },
+        {
+          "id": "prophet-entry-0695",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把香蕉掰成两半吃。"
+        },
+        {
+          "id": "prophet-entry-0696",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟站在牛背上。"
+        },
+        {
+          "id": "prophet-entry-0697",
+          "type": "LINE",
+          "content": "请把手机里的一个旧音乐删掉。"
+        },
+        {
+          "id": "prophet-entry-0698",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是水的房间里，但能呼吸。"
+        },
+        {
+          "id": "prophet-entry-0699",
+          "type": "LINE",
+          "content": "请在睡前把枕头拍松。"
+        },
+        {
+          "id": "prophet-entry-0700",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手腕更灵活。"
+        },
+        {
+          "id": "prophet-entry-0701",
+          "type": "LINE",
+          "content": "请把空的面包盒拆开。"
+        },
+        {
+          "id": "prophet-entry-0702",
+          "type": "LINE",
+          "content": "某天你会突然想给一扇窗户贴窗花。"
+        },
+        {
+          "id": "prophet-entry-0703",
+          "type": "LINE",
+          "content": "请在煮面时，闻一闻面香。"
+        },
+        {
+          "id": "prophet-entry-0704",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个穿着雨靴的人走在晴天里。"
+        },
+        {
+          "id": "prophet-entry-0705",
+          "type": "LINE",
+          "content": "请把旧书签抽出来看看。"
+        },
+        {
+          "id": "prophet-entry-0706",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏霓虹灯说“你太亮了”。"
+        },
+        {
+          "id": "prophet-entry-0707",
+          "type": "LINE",
+          "content": "请在出门时，带上一把伞，即使没下雨。"
+        },
+        {
+          "id": "prophet-entry-0708",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在拖鞋里更自由。"
+        },
+        {
+          "id": "prophet-entry-0709",
+          "type": "LINE",
+          "content": "请把空的洗衣液瓶盖洗干净。"
+        },
+        {
+          "id": "prophet-entry-0710",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是鞋的房间里。"
+        },
+        {
+          "id": "prophet-entry-0711",
+          "type": "LINE",
+          "content": "请在吃西瓜时，用刀切成小块。"
+        },
+        {
+          "id": "prophet-entry-0712",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在追一个滚远的皮球。"
+        },
+        {
+          "id": "prophet-entry-0713",
+          "type": "LINE",
+          "content": "请把手机里的日历往前翻一个月。"
+        },
+        {
+          "id": "prophet-entry-0714",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电话说“你多久没响了”。"
+        },
+        {
+          "id": "prophet-entry-0715",
+          "type": "LINE",
+          "content": "请在睡前把床边的书签拿出来。"
+        },
+        {
+          "id": "prophet-entry-0716",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在冬天更白。"
+        },
+        {
+          "id": "prophet-entry-0717",
+          "type": "LINE",
+          "content": "请把用完的便利贴揉成小球。"
+        },
+        {
+          "id": "prophet-entry-0718",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的心跳在安静中明显。"
+        },
+        {
+          "id": "prophet-entry-0719",
+          "type": "LINE",
+          "content": "请在吃面条时，用筷子卷起面条。"
+        },
+        {
+          "id": "prophet-entry-0720",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在纸箱里睡觉。"
+        },
+        {
+          "id": "prophet-entry-0721",
+          "type": "LINE",
+          "content": "请把旧衣服的扣子重新钉一下。"
+        },
+        {
+          "id": "prophet-entry-0722",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是镜子的走廊里。"
+        },
+        {
+          "id": "prophet-entry-0723",
+          "type": "LINE",
+          "content": "请在乘公交时，给老人让座。"
+        },
+        {
+          "id": "prophet-entry-0724",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看清窗帘的花纹。"
+        },
+        {
+          "id": "prophet-entry-0725",
+          "type": "LINE",
+          "content": "请把空的饮料罐踩扁。"
+        },
+        {
+          "id": "prophet-entry-0726",
+          "type": "LINE",
+          "content": "某天你会突然想给一个很久没联系的人写封信。"
+        },
+        {
+          "id": "prophet-entry-0727",
+          "type": "LINE",
+          "content": "请在煮咖啡时，用小火煮。"
+        },
+        {
+          "id": "prophet-entry-0728",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个学生捧着一本很厚的书。"
+        },
+        {
+          "id": "prophet-entry-0729",
+          "type": "LINE",
+          "content": "请把手机里的一个不用的应用卸载。"
+        },
+        {
+          "id": "prophet-entry-0730",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧毛衣说“你又起球了”。"
+        },
+        {
+          "id": "prophet-entry-0731",
+          "type": "LINE",
+          "content": "请在睡前把袜子脱掉，让脚透气。"
+        },
+        {
+          "id": "prophet-entry-0732",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在路灯下特别长。"
+        },
+        {
+          "id": "prophet-entry-0733",
+          "type": "LINE",
+          "content": "请把空的饼干盒拆开。"
+        },
+        {
+          "id": "prophet-entry-0734",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是气球的房间里，气球都是透明。"
+        },
+        {
+          "id": "prophet-entry-0735",
+          "type": "LINE",
+          "content": "请在吃橘子时，把橘子瓣分开。"
+        },
+        {
+          "id": "prophet-entry-0736",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在路边摘蒲公英。"
+        },
+        {
+          "id": "prophet-entry-0737",
+          "type": "LINE",
+          "content": "请把旧报纸上的日期剪下来。"
+        },
+        {
+          "id": "prophet-entry-0738",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧风扇说“你转起来有风”。"
+        },
+        {
+          "id": "prophet-entry-0739",
+          "type": "LINE",
+          "content": "请在出门前，把家里的垃圾带走。"
+        },
+        {
+          "id": "prophet-entry-0740",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在键盘上更轻。"
+        },
+        {
+          "id": "prophet-entry-0741",
+          "type": "LINE",
+          "content": "请把空的洗发水瓶倒放着。"
+        },
+        {
+          "id": "prophet-entry-0742",
+          "type": "LINE",
+          "content": "某天清晨，你会听见有车在楼下按喇叭。"
+        },
+        {
+          "id": "prophet-entry-0743",
+          "type": "LINE",
+          "content": "请在吃冰淇淋时，用勺子刮杯壁。"
+        },
+        {
+          "id": "prophet-entry-0744",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在追一辆自行车。"
+        },
+        {
+          "id": "prophet-entry-0745",
+          "type": "LINE",
+          "content": "请把手机里的壁纸换成星空。"
+        },
+        {
+          "id": "prophet-entry-0746",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是书页的海洋里。"
+        },
+        {
+          "id": "prophet-entry-0747",
+          "type": "LINE",
+          "content": "请在洗澡时，用沐浴露打出很多泡。"
+        },
+        {
+          "id": "prophet-entry-0748",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚底在热水中更放松。"
+        },
+        {
+          "id": "prophet-entry-0749",
+          "type": "LINE",
+          "content": "请把空的牛奶盒压扁。"
+        },
+        {
+          "id": "prophet-entry-0750",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙挂一幅画。"
+        },
+        {
+          "id": "prophet-entry-0751",
+          "type": "LINE",
+          "content": "请在煮汤时，尝一下咸淡。"
+        },
+        {
+          "id": "prophet-entry-0752",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖艺人在拉小提琴。"
+        },
+        {
+          "id": "prophet-entry-0753",
+          "type": "LINE",
+          "content": "请把旧衣服的线头烧一下。"
+        },
+        {
+          "id": "prophet-entry-0754",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏坏掉的路灯说“晚安”。"
+        },
+        {
+          "id": "prophet-entry-0755",
+          "type": "LINE",
+          "content": "请在睡前把被角折一下。"
+        },
+        {
+          "id": "prophet-entry-0756",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看见更细微的颜色。"
+        },
+        {
+          "id": "prophet-entry-0757",
+          "type": "LINE",
+          "content": "请把空的果冻盒当小碗。"
+        },
+        {
+          "id": "prophet-entry-0758",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是云朵的房间里。"
+        },
+        {
+          "id": "prophet-entry-0759",
+          "type": "LINE",
+          "content": "请在吃苹果时，把果核挖干净。"
+        },
+        {
+          "id": "prophet-entry-0760",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩纸飞机。"
+        },
+        {
+          "id": "prophet-entry-0761",
+          "type": "LINE",
+          "content": "请把抽屉里的旧收据整理一下。"
+        },
+        {
+          "id": "prophet-entry-0762",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电脑说“你辛苦了”。"
+        },
+        {
+          "id": "prophet-entry-0763",
+          "type": "LINE",
+          "content": "请在乘地铁时，听一站的广播。"
+        },
+        {
+          "id": "prophet-entry-0764",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在雨鞋里很暖。"
+        },
+        {
+          "id": "prophet-entry-0765",
+          "type": "LINE",
+          "content": "请把空的饮料瓶拧上盖。"
+        },
+        {
+          "id": "prophet-entry-0766",
+          "type": "LINE",
+          "content": "某天清晨，你会听见远处的鸟在叫。"
+        },
+        {
+          "id": "prophet-entry-0767",
+          "type": "LINE",
+          "content": "请在吃薯片时，选一片弯的。"
+        },
+        {
+          "id": "prophet-entry-0768",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在椅子上蜷成一团。"
+        },
+        {
+          "id": "prophet-entry-0769",
+          "type": "LINE",
+          "content": "请把手机里的一个旧视频打开。"
+        },
+        {
+          "id": "prophet-entry-0770",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是楼梯的房子里。"
+        },
+        {
+          "id": "prophet-entry-0771",
+          "type": "LINE",
+          "content": "请在洗手时，用肥皂洗两遍。"
+        },
+        {
+          "id": "prophet-entry-0772",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手腕在转时更顺。"
+        },
+        {
+          "id": "prophet-entry-0773",
+          "type": "LINE",
+          "content": "请把空的酸奶盖撕掉。"
+        },
+        {
+          "id": "prophet-entry-0774",
+          "type": "LINE",
+          "content": "某天你会突然想给一个空房间放一把椅子。"
+        },
+        {
+          "id": "prophet-entry-0775",
+          "type": "LINE",
+          "content": "请在煮鸡蛋时，用温水下锅。"
+        },
+        {
+          "id": "prophet-entry-0776",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖水果的摊子前有只猫。"
+        },
+        {
+          "id": "prophet-entry-0777",
+          "type": "LINE",
+          "content": "请把旧相册里的照片重新排。"
+        },
+        {
+          "id": "prophet-entry-0778",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台老式收音机说“你还能收到歌”。"
+        },
+        {
+          "id": "prophet-entry-0779",
+          "type": "LINE",
+          "content": "请在睡前把头发解开。"
+        },
+        {
+          "id": "prophet-entry-0780",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在冷气中像雾。"
+        },
+        {
+          "id": "prophet-entry-0781",
+          "type": "LINE",
+          "content": "请把空的牙膏管折起来。"
+        },
+        {
+          "id": "prophet-entry-0782",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是花的房间里，但没有香味。"
+        },
+        {
+          "id": "prophet-entry-0783",
+          "type": "LINE",
+          "content": "请在吃玉米时，转着圈吃。"
+        },
+        {
+          "id": "prophet-entry-0784",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩沙子。"
+        },
+        {
+          "id": "prophet-entry-0785",
+          "type": "LINE",
+          "content": "请把手机里的天气改成另一个国家。"
+        },
+        {
+          "id": "prophet-entry-0786",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧外套说“你口袋里有沙子”。"
+        },
+        {
+          "id": "prophet-entry-0787",
+          "type": "LINE",
+          "content": "请在出门前，把鞋底蹭一下。"
+        },
+        {
+          "id": "prophet-entry-0788",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能更适应黑暗。"
+        },
+        {
+          "id": "prophet-entry-0789",
+          "type": "LINE",
+          "content": "请把空的洗衣液瓶盖好。"
+        },
+        {
+          "id": "prophet-entry-0790",
+          "type": "LINE",
+          "content": "某天清晨，你会听见外面的鸟在开会。"
+        },
+        {
+          "id": "prophet-entry-0791",
+          "type": "LINE",
+          "content": "请在吃面条时，用勺子接汤。"
+        },
+        {
+          "id": "prophet-entry-0792",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟在你的窗外洗澡。"
+        },
+        {
+          "id": "prophet-entry-0793",
+          "type": "LINE",
+          "content": "请把旧报纸上的标题剪下来。"
+        },
+        {
+          "id": "prophet-entry-0794",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是数字的房间里。"
+        },
+        {
+          "id": "prophet-entry-0795",
+          "type": "LINE",
+          "content": "请在洗澡时，让水从头顶冲下。"
+        },
+        {
+          "id": "prophet-entry-0796",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾头在袜子里更舒服。"
+        },
+        {
+          "id": "prophet-entry-0797",
+          "type": "LINE",
+          "content": "请把空的酱油瓶冲洗一下。"
+        },
+        {
+          "id": "prophet-entry-0798",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆绿萝浇一点牛奶。"
+        },
+        {
+          "id": "prophet-entry-0799",
+          "type": "LINE",
+          "content": "请在煮咖啡时，加一块方糖。"
+        },
+        {
+          "id": "prophet-entry-0800",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人抱着一只很小的狗。"
+        },
+        {
+          "id": "prophet-entry-0801",
+          "type": "LINE",
+          "content": "请把手机里的一个旧闹钟删除。"
+        },
+        {
+          "id": "prophet-entry-0802",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你亮得很安静”。"
+        },
+        {
+          "id": "prophet-entry-0803",
+          "type": "LINE",
+          "content": "请在睡前把床单掖进床垫。"
+        },
+        {
+          "id": "prophet-entry-0804",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在捏东西时更准。"
+        },
+        {
+          "id": "prophet-entry-0805",
+          "type": "LINE",
+          "content": "请把空的纸巾盒拆开。"
+        },
+        {
+          "id": "prophet-entry-0806",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是沙发的房间里。"
+        },
+        {
+          "id": "prophet-entry-0807",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把香蕉片放嘴里含一下。"
+        },
+        {
+          "id": "prophet-entry-0808",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在追一只蝴蝶。"
+        },
+        {
+          "id": "prophet-entry-0809",
+          "type": "LINE",
+          "content": "请把旧衣服的商标剪掉。"
+        },
+        {
+          "id": "prophet-entry-0810",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧冰箱说“你里面还有光”。"
+        },
+        {
+          "id": "prophet-entry-0811",
+          "type": "LINE",
+          "content": "请在乘电梯时，按一个很远的楼层。"
+        },
+        {
+          "id": "prophet-entry-0812",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛在看水时更清。"
+        },
+        {
+          "id": "prophet-entry-0813",
+          "type": "LINE",
+          "content": "请把空的矿泉水瓶踩扁。"
+        },
+        {
+          "id": "prophet-entry-0814",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的闹钟响了三遍。"
+        },
+        {
+          "id": "prophet-entry-0815",
+          "type": "LINE",
+          "content": "请在吃西瓜时，把西瓜皮留下。"
+        },
+        {
+          "id": "prophet-entry-0816",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在沙发上磨爪子。"
+        },
+        {
+          "id": "prophet-entry-0817",
+          "type": "LINE",
+          "content": "请把手机里的壁纸换成纯黑。"
+        },
+        {
+          "id": "prophet-entry-0818",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是信封的房间里。"
+        },
+        {
+          "id": "prophet-entry-0819",
+          "type": "LINE",
+          "content": "请在洗手后，把手甩干。"
+        },
+        {
+          "id": "prophet-entry-0820",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在沙子里更沉。"
+        },
+        {
+          "id": "prophet-entry-0821",
+          "type": "LINE",
+          "content": "请把空的果汁瓶洗干净。"
+        },
+        {
+          "id": "prophet-entry-0822",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙量身高。"
+        },
+        {
+          "id": "prophet-entry-0823",
+          "type": "LINE",
+          "content": "请在煮饺子时，用漏勺捞起来。"
+        },
+        {
+          "id": "prophet-entry-0824",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖花的人把花洒水。"
+        },
+        {
+          "id": "prophet-entry-0825",
+          "type": "LINE",
+          "content": "请把旧书签夹回原处。"
+        },
+        {
+          "id": "prophet-entry-0826",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏感应灯说“你看见我了”。"
+        },
+        {
+          "id": "prophet-entry-0827",
+          "type": "LINE",
+          "content": "请在睡前把枕头边的书放回书架。"
+        },
+        {
+          "id": "prophet-entry-0828",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在跑步后更均匀。"
+        },
+        {
+          "id": "prophet-entry-0829",
+          "type": "LINE",
+          "content": "请把空的罐头瓶洗干净。"
+        },
+        {
+          "id": "prophet-entry-0830",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是窗户的房间里。"
+        },
+        {
+          "id": "prophet-entry-0831",
+          "type": "LINE",
+          "content": "请在吃薯条时，把最长的那根留到最后。"
+        },
+        {
+          "id": "prophet-entry-0832",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩滑梯。"
+        },
+        {
+          "id": "prophet-entry-0833",
+          "type": "LINE",
+          "content": "请把手机里的一个旧联系人删除。"
+        },
+        {
+          "id": "prophet-entry-0834",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏掉的闹钟说“你退休了”。"
+        },
+        {
+          "id": "prophet-entry-0835",
+          "type": "LINE",
+          "content": "请在出门前，把家里的灯全部关掉。"
+        },
+        {
+          "id": "prophet-entry-0836",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在热水里更软。"
+        },
+        {
+          "id": "prophet-entry-0837",
+          "type": "LINE",
+          "content": "请把空的酸奶盒剪开。"
+        },
+        {
+          "id": "prophet-entry-0838",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟在窗外唱歌。"
+        },
+        {
+          "id": "prophet-entry-0839",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果竖着切。"
+        },
+        {
+          "id": "prophet-entry-0840",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在树荫下乘凉。"
+        },
+        {
+          "id": "prophet-entry-0841",
+          "type": "LINE",
+          "content": "请把旧报纸上的照片剪下来。"
+        },
+        {
+          "id": "prophet-entry-0842",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是蜡烛的房间里。"
+        },
+        {
+          "id": "prophet-entry-0843",
+          "type": "LINE",
+          "content": "请在洗澡时，用洗发水洗两遍。"
+        },
+        {
+          "id": "prophet-entry-0844",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看得更宽。"
+        },
+        {
+          "id": "prophet-entry-0845",
+          "type": "LINE",
+          "content": "请把空的饮料瓶按颜色分类。"
+        },
+        {
+          "id": "prophet-entry-0846",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆花换个大点的盆。"
+        },
+        {
+          "id": "prophet-entry-0847",
+          "type": "LINE",
+          "content": "请在煮粥时，加一点油。"
+        },
+        {
+          "id": "prophet-entry-0848",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人举着手机找信号。"
+        },
+        {
+          "id": "prophet-entry-0849",
+          "type": "LINE",
+          "content": "请把手机里的一个旧闹钟时间改掉。"
+        },
+        {
+          "id": "prophet-entry-0850",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏床头灯说“你的光像月亮”。"
+        },
+        {
+          "id": "prophet-entry-0851",
+          "type": "LINE",
+          "content": "请在睡前把拖鞋并排摆好。"
+        },
+        {
+          "id": "prophet-entry-0852",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚踝在转时更灵活。"
+        },
+        {
+          "id": "prophet-entry-0853",
+          "type": "LINE",
+          "content": "请把空的洗衣液瓶扔掉。"
+        },
+        {
+          "id": "prophet-entry-0854",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是绳子的房间里。"
+        },
+        {
+          "id": "prophet-entry-0855",
+          "type": "LINE",
+          "content": "请在吃橘子时，把橘子皮剥成四瓣。"
+        },
+        {
+          "id": "prophet-entry-0856",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩遥控车。"
+        },
+        {
+          "id": "prophet-entry-0857",
+          "type": "LINE",
+          "content": "请把旧衣服叠成小方块。"
+        },
+        {
+          "id": "prophet-entry-0858",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电视说“你该休息了”。"
+        },
+        {
+          "id": "prophet-entry-0859",
+          "type": "LINE",
+          "content": "请在乘公交时，把硬币投入箱里。"
+        },
+        {
+          "id": "prophet-entry-0860",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在水里更灵活。"
+        },
+        {
+          "id": "prophet-entry-0861",
+          "type": "LINE",
+          "content": "请把空的果酱瓶当花瓶。"
+        },
+        {
+          "id": "prophet-entry-0862",
+          "type": "LINE",
+          "content": "某天清晨，你会听见远处的拖拉机声。"
+        },
+        {
+          "id": "prophet-entry-0863",
+          "type": "LINE",
+          "content": "请在吃面条时，喝一口汤。"
+        },
+        {
+          "id": "prophet-entry-0864",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在追光点。"
+        },
+        {
+          "id": "prophet-entry-0865",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片删掉。"
+        },
+        {
+          "id": "prophet-entry-0866",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是鞋带的房间里。"
+        },
+        {
+          "id": "prophet-entry-0867",
+          "type": "LINE",
+          "content": "请在洗澡时，用冷水冲一下背。"
+        },
+        {
+          "id": "prophet-entry-0868",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在早晨更轻。"
+        },
+        {
+          "id": "prophet-entry-0869",
+          "type": "LINE",
+          "content": "请把空的牛奶盒剪开。"
+        },
+        {
+          "id": "prophet-entry-0870",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙挂镜子。"
+        },
+        {
+          "id": "prophet-entry-0871",
+          "type": "LINE",
+          "content": "请在煮鸡蛋时，等水开再放。"
+        },
+        {
+          "id": "prophet-entry-0872",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖气球的人，气球是心形。"
+        },
+        {
+          "id": "prophet-entry-0873",
+          "type": "LINE",
+          "content": "请把旧书里的灰尘掸掉。"
+        },
+        {
+          "id": "prophet-entry-0874",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧风扇说“你的网罩脏了”。"
+        },
+        {
+          "id": "prophet-entry-0875",
+          "type": "LINE",
+          "content": "请在睡前把窗帘拉上，留一点。"
+        },
+        {
+          "id": "prophet-entry-0876",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能更清楚看月亮。"
+        },
+        {
+          "id": "prophet-entry-0877",
+          "type": "LINE",
+          "content": "请把空的酸奶瓶拧上盖。"
+        },
+        {
+          "id": "prophet-entry-0878",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是面具的房间里。"
+        },
+        {
+          "id": "prophet-entry-0879",
+          "type": "LINE",
+          "content": "请在吃西瓜时，把西瓜切成船形。"
+        },
+        {
+          "id": "prophet-entry-0880",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩躲猫猫。"
+        },
+        {
+          "id": "prophet-entry-0881",
+          "type": "LINE",
+          "content": "请把手机里的一个旧音乐设为静音。"
+        },
+        {
+          "id": "prophet-entry-0882",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏路灯说“你今晚特别亮”。"
+        },
+        {
+          "id": "prophet-entry-0883",
+          "type": "LINE",
+          "content": "请在出门前，把鞋里的沙子倒掉。"
+        },
+        {
+          "id": "prophet-entry-0884",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在写字时更稳。"
+        },
+        {
+          "id": "prophet-entry-0885",
+          "type": "LINE",
+          "content": "请把空的饮料瓶扔进可回收。"
+        },
+        {
+          "id": "prophet-entry-0886",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的呼吸在枕头上。"
+        },
+        {
+          "id": "prophet-entry-0887",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果皮吃掉。"
+        },
+        {
+          "id": "prophet-entry-0888",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在雪地上跑。"
+        },
+        {
+          "id": "prophet-entry-0889",
+          "type": "LINE",
+          "content": "请把旧报纸上的字练一下。"
+        },
+        {
+          "id": "prophet-entry-0890",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是楼梯的塔里。"
+        },
+        {
+          "id": "prophet-entry-0891",
+          "type": "LINE",
+          "content": "请在洗澡时，用浴花打出很多泡。"
+        },
+        {
+          "id": "prophet-entry-0892",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在热水里更舒服。"
+        },
+        {
+          "id": "prophet-entry-0893",
+          "type": "LINE",
+          "content": "请把空的洗发水瓶倒放。"
+        },
+        {
+          "id": "prophet-entry-0894",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆植物起名字。"
+        },
+        {
+          "id": "prophet-entry-0895",
+          "type": "LINE",
+          "content": "请在煮面时，加一点盐。"
+        },
+        {
+          "id": "prophet-entry-0896",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人抱着一个西瓜。"
+        },
+        {
+          "id": "prophet-entry-0897",
+          "type": "LINE",
+          "content": "请把手机里的一个旧短信删掉。"
+        },
+        {
+          "id": "prophet-entry-0898",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧毛衣说“你该晒太阳了”。"
+        },
+        {
+          "id": "prophet-entry-0899",
+          "type": "LINE",
+          "content": "请在睡前把被角折成三角形。"
+        },
+        {
+          "id": "prophet-entry-0900",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在月光下很薄。"
+        },
+        {
+          "id": "prophet-entry-0901",
+          "type": "LINE",
+          "content": "请把空的纸巾筒放进口袋。"
+        },
+        {
+          "id": "prophet-entry-0902",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是枕头的河里。"
+        },
+        {
+          "id": "prophet-entry-0903",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把皮撕成三片。"
+        },
+        {
+          "id": "prophet-entry-0904",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩气球。"
+        },
+        {
+          "id": "prophet-entry-0905",
+          "type": "LINE",
+          "content": "请把旧衣服的拉链修一下。"
+        },
+        {
+          "id": "prophet-entry-0906",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电脑说“你开机很慢”。"
+        },
+        {
+          "id": "prophet-entry-0907",
+          "type": "LINE",
+          "content": "请在乘电梯时，对镜子微笑。"
+        },
+        {
+          "id": "prophet-entry-0908",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能更清楚看星星。"
+        },
+        {
+          "id": "prophet-entry-0909",
+          "type": "LINE",
+          "content": "请把空的矿泉水瓶接满水。"
+        },
+        {
+          "id": "prophet-entry-0910",
+          "type": "LINE",
+          "content": "某天清晨，你会听见外面的雨声。"
+        },
+        {
+          "id": "prophet-entry-0911",
+          "type": "LINE",
+          "content": "请在吃薯片时，把碎的倒进嘴里。"
+        },
+        {
+          "id": "prophet-entry-0912",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在屋顶上走。"
+        },
+        {
+          "id": "prophet-entry-0913",
+          "type": "LINE",
+          "content": "请把手机里的壁纸换成森林。"
+        },
+        {
+          "id": "prophet-entry-0914",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是书的迷宫里。"
+        },
+        {
+          "id": "prophet-entry-0915",
+          "type": "LINE",
+          "content": "请在洗手时，让水冲手腕十秒。"
+        },
+        {
+          "id": "prophet-entry-0916",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在雪地里更冷。"
+        },
+        {
+          "id": "prophet-entry-0917",
+          "type": "LINE",
+          "content": "请把空的果汁盒压扁。"
+        },
+        {
+          "id": "prophet-entry-0918",
+          "type": "LINE",
+          "content": "某天你会突然想给一个空瓶子插花。"
+        },
+        {
+          "id": "prophet-entry-0919",
+          "type": "LINE",
+          "content": "请在煮饺子时，用筷子轻轻搅。"
+        },
+        {
+          "id": "prophet-entry-0920",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖水果的人给你尝一颗葡萄。"
+        },
+        {
+          "id": "prophet-entry-0921",
+          "type": "LINE",
+          "content": "请把旧书封面擦一下。"
+        },
+        {
+          "id": "prophet-entry-0922",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你陪我熬夜”。"
+        },
+        {
+          "id": "prophet-entry-0923",
+          "type": "LINE",
+          "content": "请在睡前把头发梳顺。"
+        },
+        {
+          "id": "prophet-entry-0924",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在冷水中更红。"
+        },
+        {
+          "id": "prophet-entry-0925",
+          "type": "LINE",
+          "content": "请把空的酱油瓶扔掉。"
+        },
+        {
+          "id": "prophet-entry-0926",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是云的房间里。"
+        },
+        {
+          "id": "prophet-entry-0927",
+          "type": "LINE",
+          "content": "请在吃玉米时，用刀切下玉米粒。"
+        },
+        {
+          "id": "prophet-entry-0928",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩跳绳。"
+        },
+        {
+          "id": "prophet-entry-0929",
+          "type": "LINE",
+          "content": "请把手机里的一个旧联系人备注改掉。"
+        },
+        {
+          "id": "prophet-entry-0930",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧收音机说“你声音沙了”。"
+        },
+        {
+          "id": "prophet-entry-0931",
+          "type": "LINE",
+          "content": "请在出门前，把包里的东西整理一下。"
+        },
+        {
+          "id": "prophet-entry-0932",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在春天更香。"
+        },
+        {
+          "id": "prophet-entry-0933",
+          "type": "LINE",
+          "content": "请把空的牛奶盒放进回收桶。"
+        },
+        {
+          "id": "prophet-entry-0934",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟在窗外啄玻璃。"
+        },
+        {
+          "id": "prophet-entry-0935",
+          "type": "LINE",
+          "content": "请在吃面条时，把葱花先吃掉。"
+        },
+        {
+          "id": "prophet-entry-0936",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在玩球。"
+        },
+        {
+          "id": "prophet-entry-0937",
+          "type": "LINE",
+          "content": "请把旧报纸上的文章读一遍。"
+        },
+        {
+          "id": "prophet-entry-0938",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是玻璃球的房间里。"
+        },
+        {
+          "id": "prophet-entry-0939",
+          "type": "LINE",
+          "content": "请在洗澡时，用热水冲肩。"
+        },
+        {
+          "id": "prophet-entry-0940",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾在鞋里能动得更灵活。"
+        },
+        {
+          "id": "prophet-entry-0941",
+          "type": "LINE",
+          "content": "请把空的果冻盒叠起来。"
+        },
+        {
+          "id": "prophet-entry-0942",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙刷白。"
+        },
+        {
+          "id": "prophet-entry-0943",
+          "type": "LINE",
+          "content": "请在煮汤时，用小火慢炖。"
+        },
+        {
+          "id": "prophet-entry-0944",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人拿着一把吉他。"
+        },
+        {
+          "id": "prophet-entry-0945",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片设为壁纸。"
+        },
+        {
+          "id": "prophet-entry-0946",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧衬衫说“你领子黄了”。"
+        },
+        {
+          "id": "prophet-entry-0947",
+          "type": "LINE",
+          "content": "请在睡前把房间整理一下。"
+        },
+        {
+          "id": "prophet-entry-0948",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看得更远。"
+        },
+        {
+          "id": "prophet-entry-0949",
+          "type": "LINE",
+          "content": "请把空的饮料瓶堆在角落。"
+        },
+        {
+          "id": "prophet-entry-0950",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是羽毛的房间里。"
+        },
+        {
+          "id": "prophet-entry-0951",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果切成片。"
+        },
+        {
+          "id": "prophet-entry-0952",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在骑三轮车。"
+        },
+        {
+          "id": "prophet-entry-0953",
+          "type": "LINE",
+          "content": "请把旧衣服的口子缝上。"
+        },
+        {
+          "id": "prophet-entry-0954",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧风扇说“你声音像夏天”。"
+        },
+        {
+          "id": "prophet-entry-0955",
+          "type": "LINE",
+          "content": "请在乘公交时，坐在最后一排。"
+        },
+        {
+          "id": "prophet-entry-0956",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在琴弦上更灵活。"
+        },
+        {
+          "id": "prophet-entry-0957",
+          "type": "LINE",
+          "content": "请把空的酸奶盒扔进垃圾桶。"
+        },
+        {
+          "id": "prophet-entry-0958",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的闹钟没响。"
+        },
+        {
+          "id": "prophet-entry-0959",
+          "type": "LINE",
+          "content": "请在吃西瓜时，把籽留在嘴里。"
+        },
+        {
+          "id": "prophet-entry-0960",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在纸袋里。"
+        },
+        {
+          "id": "prophet-entry-0961",
+          "type": "LINE",
+          "content": "请把手机里的一个旧游戏打开。"
+        },
+        {
+          "id": "prophet-entry-0962",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是钟的房间里，钟都停在同一时刻。"
+        },
+        {
+          "id": "prophet-entry-0963",
+          "type": "LINE",
+          "content": "请在洗手后，把水甩到镜子上。"
+        },
+        {
+          "id": "prophet-entry-0964",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在草地上更轻。"
+        },
+        {
+          "id": "prophet-entry-0965",
+          "type": "LINE",
+          "content": "请把空的洗衣液瓶冲洗。"
+        },
+        {
+          "id": "prophet-entry-0966",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆花修枝。"
+        },
+        {
+          "id": "prophet-entry-0967",
+          "type": "LINE",
+          "content": "请在煮咖啡时，用滤纸慢慢冲。"
+        },
+        {
+          "id": "prophet-entry-0968",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖气球的人，气球是龙。"
+        },
+        {
+          "id": "prophet-entry-0969",
+          "type": "LINE",
+          "content": "请把旧书里夹的花瓣拿出来。"
+        },
+        {
+          "id": "prophet-entry-0970",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏感应灯说“你又亮了”。"
+        },
+        {
+          "id": "prophet-entry-0971",
+          "type": "LINE",
+          "content": "请在睡前把被罩拉链拉好。"
+        },
+        {
+          "id": "prophet-entry-0972",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在夏天更热。"
+        },
+        {
+          "id": "prophet-entry-0973",
+          "type": "LINE",
+          "content": "请把空的纸巾盒压平。"
+        },
+        {
+          "id": "prophet-entry-0974",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是雪的房间里。"
+        },
+        {
+          "id": "prophet-entry-0975",
+          "type": "LINE",
+          "content": "请在吃橘子时，把橘子皮留着晒。"
+        },
+        {
+          "id": "prophet-entry-0976",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩拼图。"
+        },
+        {
+          "id": "prophet-entry-0977",
+          "type": "LINE",
+          "content": "请把手机里的一个旧消息清空。"
+        },
+        {
+          "id": "prophet-entry-0978",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电视说“你雪花还在”。"
+        },
+        {
+          "id": "prophet-entry-0979",
+          "type": "LINE",
+          "content": "请在出门时，带上一瓶水。"
+        },
+        {
+          "id": "prophet-entry-0980",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在雨里没有。"
+        },
+        {
+          "id": "prophet-entry-0981",
+          "type": "LINE",
+          "content": "请把空的果汁盒扔进垃圾桶。"
+        },
+        {
+          "id": "prophet-entry-0982",
+          "type": "LINE",
+          "content": "某天清晨，你会听见外面的风很大。"
+        },
+        {
+          "id": "prophet-entry-0983",
+          "type": "LINE",
+          "content": "请在吃薯条时，蘸番茄酱画圈。"
+        },
+        {
+          "id": "prophet-entry-0984",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在追尾巴。"
+        },
+        {
+          "id": "prophet-entry-0985",
+          "type": "LINE",
+          "content": "请把旧衣服的纽扣擦亮。"
+        },
+        {
+          "id": "prophet-entry-0986",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是楼梯的商场里。"
+        },
+        {
+          "id": "prophet-entry-0987",
+          "type": "LINE",
+          "content": "请在洗澡时，用护发素。"
+        },
+        {
+          "id": "prophet-entry-0988",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能更亮。"
+        },
+        {
+          "id": "prophet-entry-0989",
+          "type": "LINE",
+          "content": "请把空的矿泉水瓶拧开盖子。"
+        },
+        {
+          "id": "prophet-entry-0990",
+          "type": "LINE",
+          "content": "某天你会突然想给一个空房间放一盆植物。"
+        },
+        {
+          "id": "prophet-entry-0991",
+          "type": "LINE",
+          "content": "请在煮鸡蛋时，轻轻敲开。"
+        },
+        {
+          "id": "prophet-entry-0992",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个人抱着一束雏菊。"
+        },
+        {
+          "id": "prophet-entry-0993",
+          "type": "LINE",
+          "content": "请把手机里的一个旧提醒删除。"
+        },
+        {
+          "id": "prophet-entry-0994",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你该换个灯泡了”。"
+        },
+        {
+          "id": "prophet-entry-0995",
+          "type": "LINE",
+          "content": "请在睡前把窗帘拉上，挡住月亮。"
+        },
+        {
+          "id": "prophet-entry-0996",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在温水里更软。"
+        },
+        {
+          "id": "prophet-entry-0997",
+          "type": "LINE",
+          "content": "请把空的酱油瓶回收。"
+        },
+        {
+          "id": "prophet-entry-0998",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是信封的房间里，每个信封都是空的。"
+        },
+        {
+          "id": "prophet-entry-0999",
+          "type": "LINE",
+          "content": "请在吃面条时，吹一吹。"
+        },
+        {
+          "id": "prophet-entry-1000",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩积木，搭得很高。"
+        },
+        {
+          "id": "prophet-entry-1001",
+          "type": "LINE",
+          "content": "请把昨晚放在窗台的半杯水倒掉，换成新的。"
+        },
+        {
+          "id": "prophet-entry-1002",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的左肩比右肩更记得风的形状。"
+        },
+        {
+          "id": "prophet-entry-1003",
+          "type": "LINE",
+          "content": "请在煮面条时，留一小口生面，第二天再煮。"
+        },
+        {
+          "id": "prophet-entry-1004",
+          "type": "LINE",
+          "content": "某天清晨，你会听见雨点落在空调外机上，像在敲门。"
+        },
+        {
+          "id": "prophet-entry-1005",
+          "type": "LINE",
+          "content": "请把钥匙串上最旧的那把钥匙取下来，放进口袋一整天。"
+        },
+        {
+          "id": "prophet-entry-1006",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟把一颗石子衔到路灯上，又扔下。"
+        },
+        {
+          "id": "prophet-entry-1007",
+          "type": "LINE",
+          "content": "请在吹干头发后，用梳子把头发倒梳一下。"
+        },
+        {
+          "id": "prophet-entry-1008",
+          "type": "LINE",
+          "content": "未来某天，你会对着一面会起雾的镜子说“你又看不清我了”。"
+        },
+        {
+          "id": "prophet-entry-1009",
+          "type": "LINE",
+          "content": "请把昨天读过的书翻到最后一页，再翻回第一页。"
+        },
+        {
+          "id": "prophet-entry-1010",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的鞋底更薄了一点。"
+        },
+        {
+          "id": "prophet-entry-1011",
+          "type": "LINE",
+          "content": "请把吃橙子时撕下的白色经络放在一张黑纸上。"
+        },
+        {
+          "id": "prophet-entry-1012",
+          "type": "LINE",
+          "content": "某天傍晚，你会看见楼下有人把一盆花端进屋里，又端出来。"
+        },
+        {
+          "id": "prophet-entry-1013",
+          "type": "LINE",
+          "content": "请在乘电梯时，如果只有你一个人，就轻轻说一句“你好”。"
+        },
+        {
+          "id": "prophet-entry-1014",
+          "type": "LINE",
+          "content": "下个月某天，你会在地铁里看见一个用报纸包书的人。"
+        },
+        {
+          "id": "prophet-entry-1015",
+          "type": "LINE",
+          "content": "请把手机屏幕亮度调到最暗，用十分钟再调回。"
+        },
+        {
+          "id": "prophet-entry-1016",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是灯绳的房间里，拉哪根都不亮。"
+        },
+        {
+          "id": "prophet-entry-1017",
+          "type": "LINE",
+          "content": "请在刷牙时，用左手刷一次。"
+        },
+        {
+          "id": "prophet-entry-1018",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的耳垂能听见很低的嗡嗡声。"
+        },
+        {
+          "id": "prophet-entry-1019",
+          "type": "LINE",
+          "content": "请把吃剩的葡萄梗摆成一个圈。"
+        },
+        {
+          "id": "prophet-entry-1020",
+          "type": "LINE",
+          "content": "某天清晨，你会听见楼上的琴声只弹了一个音，然后停下。"
+        },
+        {
+          "id": "prophet-entry-1021",
+          "type": "LINE",
+          "content": "请在系鞋带时，打一个很松的结，让鞋带拖地走十步。"
+        },
+        {
+          "id": "prophet-entry-1022",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫蹲在垃圾桶上，像在巡视。"
+        },
+        {
+          "id": "prophet-entry-1023",
+          "type": "LINE",
+          "content": "请把家里的一个坏灯泡留着，不要扔。"
+        },
+        {
+          "id": "prophet-entry-1024",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台老式计算器按“1+1”，然后关掉。"
+        },
+        {
+          "id": "prophet-entry-1025",
+          "type": "LINE",
+          "content": "请在睡前把今天的日期写在纸条上，折成极小。"
+        },
+        {
+          "id": "prophet-entry-1026",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的膝盖在下雨前会提前发凉。"
+        },
+        {
+          "id": "prophet-entry-1027",
+          "type": "LINE",
+          "content": "请把空的酱油瓶用清水涮一下，水倒进花盆。"
+        },
+        {
+          "id": "prophet-entry-1028",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个没有出口的自动扶梯上，但不想下去。"
+        },
+        {
+          "id": "prophet-entry-1029",
+          "type": "LINE",
+          "content": "请在切柠檬时，把柠檬籽一颗颗挑出来排好。"
+        },
+        {
+          "id": "prophet-entry-1030",
+          "type": "LINE",
+          "content": "下周三，你会看见一个老人用放大镜读一本很小的书。"
+        },
+        {
+          "id": "prophet-entry-1031",
+          "type": "LINE",
+          "content": "请把手机里的一个群聊设为免打扰，过一天再取消。"
+        },
+        {
+          "id": "prophet-entry-1032",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏了的体重秤说“你也不容易”。"
+        },
+        {
+          "id": "prophet-entry-1033",
+          "type": "LINE",
+          "content": "请在出门前，把鞋柜最上层的一只鞋碰一下。"
+        },
+        {
+          "id": "prophet-entry-1034",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的指甲在毛衣上刮出声音很好听。"
+        },
+        {
+          "id": "prophet-entry-1035",
+          "type": "LINE",
+          "content": "请把吃剩的面包边搓成球，喂给路边的蚂蚁。"
+        },
+        {
+          "id": "prophet-entry-1036",
+          "type": "LINE",
+          "content": "某天清晨，你会听见送牛奶的箱子在门口发出很轻的一声。"
+        },
+        {
+          "id": "prophet-entry-1037",
+          "type": "LINE",
+          "content": "请在洗手时，用洗手液吹一个很小的泡泡。"
+        },
+        {
+          "id": "prophet-entry-1038",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在桥边看水里的倒影。"
+        },
+        {
+          "id": "prophet-entry-1039",
+          "type": "LINE",
+          "content": "请把空的易拉罐拉环套在手指上，戴五分钟。"
+        },
+        {
+          "id": "prophet-entry-1040",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是抽屉的墙边，每个抽屉都是空的。"
+        },
+        {
+          "id": "prophet-entry-1041",
+          "type": "LINE",
+          "content": "请在穿外套时，把领子竖起来十分钟。"
+        },
+        {
+          "id": "prophet-entry-1042",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚步在木地板上更响。"
+        },
+        {
+          "id": "prophet-entry-1043",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个字剪成圆形。"
+        },
+        {
+          "id": "prophet-entry-1044",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆多肉擦掉叶片上的灰。"
+        },
+        {
+          "id": "prophet-entry-1045",
+          "type": "LINE",
+          "content": "请在煮饭时，淘米水留一小杯放阳台。"
+        },
+        {
+          "id": "prophet-entry-1046",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖花的人把一朵蔫花插回桶里。"
+        },
+        {
+          "id": "prophet-entry-1047",
+          "type": "LINE",
+          "content": "请把手机里的一个旧视频截屏，设成壁纸。"
+        },
+        {
+          "id": "prophet-entry-1048",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧台灯说“你照得我影子很胖”。"
+        },
+        {
+          "id": "prophet-entry-1049",
+          "type": "LINE",
+          "content": "请在睡前把脱下的衣服叠成一个小动物形状。"
+        },
+        {
+          "id": "prophet-entry-1050",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼球在黑暗里能看见光斑。"
+        },
+        {
+          "id": "prophet-entry-1051",
+          "type": "LINE",
+          "content": "请把吃剩的瓜子壳用胶水粘成一条小船。"
+        },
+        {
+          "id": "prophet-entry-1052",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是塑料椅的房间里，摆成一圈。"
+        },
+        {
+          "id": "prophet-entry-1053",
+          "type": "LINE",
+          "content": "请在乘公交时，数一数车上扶手拉环的数量。"
+        },
+        {
+          "id": "prophet-entry-1054",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在给一只流浪猫撑伞。"
+        },
+        {
+          "id": "prophet-entry-1055",
+          "type": "LINE",
+          "content": "请把浴室里的一根头发捡起来，绕在手指上。"
+        },
+        {
+          "id": "prophet-entry-1056",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台自动门说“你开得真快”。"
+        },
+        {
+          "id": "prophet-entry-1057",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果籽用纸巾包好。"
+        },
+        {
+          "id": "prophet-entry-1058",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手腕戴手表的地方特别白。"
+        },
+        {
+          "id": "prophet-entry-1059",
+          "type": "LINE",
+          "content": "请把抽屉里的旧电池按大小排成一行。"
+        },
+        {
+          "id": "prophet-entry-1060",
+          "type": "LINE",
+          "content": "某天清晨，你会听见窗外有两只鸟在吵架。"
+        },
+        {
+          "id": "prophet-entry-1061",
+          "type": "LINE",
+          "content": "请在煮饺子时，故意让一个饺子煮破。"
+        },
+        {
+          "id": "prophet-entry-1062",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在冰箱顶上睡觉。"
+        },
+        {
+          "id": "prophet-entry-1063",
+          "type": "LINE",
+          "content": "请把手机里的一个旧联系人头像换成小动物。"
+        },
+        {
+          "id": "prophet-entry-1064",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是伞的走廊里，撑开一把。"
+        },
+        {
+          "id": "prophet-entry-1065",
+          "type": "LINE",
+          "content": "请在出门前，把家里的一个垃圾袋系紧。"
+        },
+        {
+          "id": "prophet-entry-1066",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在凉席上更凉。"
+        },
+        {
+          "id": "prophet-entry-1067",
+          "type": "LINE",
+          "content": "请把空的洗衣液瓶盖做成一个小盘子。"
+        },
+        {
+          "id": "prophet-entry-1068",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙贴上蓝色的胶带。"
+        },
+        {
+          "id": "prophet-entry-1069",
+          "type": "LINE",
+          "content": "请在煮咖啡时，不搅拌，看奶泡自己散开。"
+        },
+        {
+          "id": "prophet-entry-1070",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个用耳机听广播的人。"
+        },
+        {
+          "id": "prophet-entry-1071",
+          "type": "LINE",
+          "content": "请把旧衣服的标签剪成小片。"
+        },
+        {
+          "id": "prophet-entry-1072",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏坏灯泡说“你黑得很安静”。"
+        },
+        {
+          "id": "prophet-entry-1073",
+          "type": "LINE",
+          "content": "请在睡前把窗帘拉上，只留底部一条缝。"
+        },
+        {
+          "id": "prophet-entry-1074",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的睫毛在眨眼时更明显。"
+        },
+        {
+          "id": "prophet-entry-1075",
+          "type": "LINE",
+          "content": "请把吃剩的苹果皮用牙签串起来。"
+        },
+        {
+          "id": "prophet-entry-1076",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是羽毛球的房间里。"
+        },
+        {
+          "id": "prophet-entry-1077",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把香蕉横过来吃。"
+        },
+        {
+          "id": "prophet-entry-1078",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在广场上吹肥皂泡。"
+        },
+        {
+          "id": "prophet-entry-1079",
+          "type": "LINE",
+          "content": "请把手机里的日历往后翻一年，又翻回来。"
+        },
+        {
+          "id": "prophet-entry-1080",
+          "type": "LINE",
+          "content": "未来某天，你会对着一件旧外套说“你左边口袋破了个洞”。"
+        },
+        {
+          "id": "prophet-entry-1081",
+          "type": "LINE",
+          "content": "请在洗澡时，用沐浴露在肚皮上画圈。"
+        },
+        {
+          "id": "prophet-entry-1082",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的头发在洗完后更蓬松。"
+        },
+        {
+          "id": "prophet-entry-1083",
+          "type": "LINE",
+          "content": "请把空的酸奶盒用清水冲一下。"
+        },
+        {
+          "id": "prophet-entry-1084",
+          "type": "LINE",
+          "content": "某天清晨，你会听见远处的火车鸣笛。"
+        },
+        {
+          "id": "prophet-entry-1085",
+          "type": "LINE",
+          "content": "请在吃薯条时，把番茄酱挤在盘子边上。"
+        },
+        {
+          "id": "prophet-entry-1086",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在追一片被风吹走的叶子。"
+        },
+        {
+          "id": "prophet-entry-1087",
+          "type": "LINE",
+          "content": "请把手机里的一个旧应用打开又关闭。"
+        },
+        {
+          "id": "prophet-entry-1088",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是橡皮筋的房间里。"
+        },
+        {
+          "id": "prophet-entry-1089",
+          "type": "LINE",
+          "content": "请在乘电梯时，用脚尖轻轻点一下地板。"
+        },
+        {
+          "id": "prophet-entry-1090",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在摸粗糙的墙面时有触感。"
+        },
+        {
+          "id": "prophet-entry-1091",
+          "type": "LINE",
+          "content": "请把空的矿泉水瓶装满沙子。"
+        },
+        {
+          "id": "prophet-entry-1092",
+          "type": "LINE",
+          "content": "某天你会突然想给一个陌生人指路，即使你不认识。"
+        },
+        {
+          "id": "prophet-entry-1093",
+          "type": "LINE",
+          "content": "请在煮面条时，把面条用筷子夹断。"
+        },
+        {
+          "id": "prophet-entry-1094",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个老人在公园里打太极。"
+        },
+        {
+          "id": "prophet-entry-1095",
+          "type": "LINE",
+          "content": "请把旧书里夹的纸条拿出来读一遍。"
+        },
+        {
+          "id": "prophet-entry-1096",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧冰箱说“你的门封条老化了”。"
+        },
+        {
+          "id": "prophet-entry-1097",
+          "type": "LINE",
+          "content": "请在睡前把手机放在离床最远的角落。"
+        },
+        {
+          "id": "prophet-entry-1098",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在洗澡时更慢。"
+        },
+        {
+          "id": "prophet-entry-1099",
+          "type": "LINE",
+          "content": "请把吃剩的鱼刺用纸包成一小包。"
+        },
+        {
+          "id": "prophet-entry-1100",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是橡皮鸭的浴缸里。"
+        },
+        {
+          "id": "prophet-entry-1101",
+          "type": "LINE",
+          "content": "请在出门前，把鞋带松开再系一次。"
+        },
+        {
+          "id": "prophet-entry-1102",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩跳房子。"
+        },
+        {
+          "id": "prophet-entry-1103",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片打印出来。"
+        },
+        {
+          "id": "prophet-entry-1104",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏声控灯拍手三下。"
+        },
+        {
+          "id": "prophet-entry-1105",
+          "type": "LINE",
+          "content": "请在刷牙时，对着镜子微笑一下。"
+        },
+        {
+          "id": "prophet-entry-1106",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾头在冬天容易冷。"
+        },
+        {
+          "id": "prophet-entry-1107",
+          "type": "LINE",
+          "content": "请把空的饼干盒用彩笔涂一个点。"
+        },
+        {
+          "id": "prophet-entry-1108",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟在窗外叫了三声就停。"
+        },
+        {
+          "id": "prophet-entry-1109",
+          "type": "LINE",
+          "content": "请在吃西瓜时，用牙签把籽挑出来。"
+        },
+        {
+          "id": "prophet-entry-1110",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在草地上打滚。"
+        },
+        {
+          "id": "prophet-entry-1111",
+          "type": "LINE",
+          "content": "请把旧衣服上的一个扣子拆下来。"
+        },
+        {
+          "id": "prophet-entry-1112",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是灯泡的房间里，一个一个拧紧。"
+        },
+        {
+          "id": "prophet-entry-1113",
+          "type": "LINE",
+          "content": "请在洗手后，用湿手在窗玻璃上按五个指印。"
+        },
+        {
+          "id": "prophet-entry-1114",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在灯下更清晰。"
+        },
+        {
+          "id": "prophet-entry-1115",
+          "type": "LINE",
+          "content": "请把空的果酱瓶装满水，看气泡上升。"
+        },
+        {
+          "id": "prophet-entry-1116",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆花撒一点面包屑。"
+        },
+        {
+          "id": "prophet-entry-1117",
+          "type": "LINE",
+          "content": "请在煮汤时，用勺子搅出漩涡。"
+        },
+        {
+          "id": "prophet-entry-1118",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个抱着小孩的人，小孩在睡觉。"
+        },
+        {
+          "id": "prophet-entry-1119",
+          "type": "LINE",
+          "content": "请把手机里的一个旧闹钟铃声换成静音。"
+        },
+        {
+          "id": "prophet-entry-1120",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电扇说“你转起来像在叹气”。"
+        },
+        {
+          "id": "prophet-entry-1121",
+          "type": "LINE",
+          "content": "请在睡前把被套拉链拉上。"
+        },
+        {
+          "id": "prophet-entry-1122",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看见空气中的灰尘。"
+        },
+        {
+          "id": "prophet-entry-1123",
+          "type": "LINE",
+          "content": "请把空的牛奶盒剪成小片。"
+        },
+        {
+          "id": "prophet-entry-1124",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是鞋盒的房间里堆高。"
+        },
+        {
+          "id": "prophet-entry-1125",
+          "type": "LINE",
+          "content": "请在吃橘子时，把橘子皮泡进热水里。"
+        },
+        {
+          "id": "prophet-entry-1126",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在追一张被风吹走的纸。"
+        },
+        {
+          "id": "prophet-entry-1127",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个日期圈起来。"
+        },
+        {
+          "id": "prophet-entry-1128",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电视说“你还能开”。"
+        },
+        {
+          "id": "prophet-entry-1129",
+          "type": "LINE",
+          "content": "请在出门前，把门把手擦一下。"
+        },
+        {
+          "id": "prophet-entry-1130",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的膝盖在跪着时更疼。"
+        },
+        {
+          "id": "prophet-entry-1131",
+          "type": "LINE",
+          "content": "请把吃剩的蛋糕屑喂给窗台的麻雀。"
+        },
+        {
+          "id": "prophet-entry-1132",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的手机在充电时发出很轻的电流声。"
+        },
+        {
+          "id": "prophet-entry-1133",
+          "type": "LINE",
+          "content": "请在吃面条时，把面条绕在筷子上三圈。"
+        },
+        {
+          "id": "prophet-entry-1134",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟在你的阳台上停留。"
+        },
+        {
+          "id": "prophet-entry-1135",
+          "type": "LINE",
+          "content": "请把手机里的一个旧视频删除。"
+        },
+        {
+          "id": "prophet-entry-1136",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是镜子的房间里，镜子互相反射。"
+        },
+        {
+          "id": "prophet-entry-1137",
+          "type": "LINE",
+          "content": "请在洗澡时，用冷水冲一下脚趾。"
+        },
+        {
+          "id": "prophet-entry-1138",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在剥东西时更巧。"
+        },
+        {
+          "id": "prophet-entry-1139",
+          "type": "LINE",
+          "content": "请把空的洗衣液瓶盖放回瓶口。"
+        },
+        {
+          "id": "prophet-entry-1140",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙贴满星星贴纸。"
+        },
+        {
+          "id": "prophet-entry-1141",
+          "type": "LINE",
+          "content": "请在煮咖啡时，加一块冰。"
+        },
+        {
+          "id": "prophet-entry-1142",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖水果的人往水果上喷水。"
+        },
+        {
+          "id": "prophet-entry-1143",
+          "type": "LINE",
+          "content": "请把旧书里的折角展平。"
+        },
+        {
+          "id": "prophet-entry-1144",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台老式挂钟说“你的钟摆停了”。"
+        },
+        {
+          "id": "prophet-entry-1145",
+          "type": "LINE",
+          "content": "请在睡前把窗台上的灰尘吹掉。"
+        },
+        {
+          "id": "prophet-entry-1146",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在冬天会形成小雾团。"
+        },
+        {
+          "id": "prophet-entry-1147",
+          "type": "LINE",
+          "content": "请把吃剩的虾壳摆成一只小船。"
+        },
+        {
+          "id": "prophet-entry-1148",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是线的房间里，线缠在一起。"
+        },
+        {
+          "id": "prophet-entry-1149",
+          "type": "LINE",
+          "content": "请在乘公交时，把窗户打开一点。"
+        },
+        {
+          "id": "prophet-entry-1150",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在吃棉花糖。"
+        },
+        {
+          "id": "prophet-entry-1151",
+          "type": "LINE",
+          "content": "请把手机里的一个旧联系人号码背下来。"
+        },
+        {
+          "id": "prophet-entry-1152",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你的开关有点松”。"
+        },
+        {
+          "id": "prophet-entry-1153",
+          "type": "LINE",
+          "content": "请在出门前，把鞋带打一个死结再解开。"
+        },
+        {
+          "id": "prophet-entry-1154",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在湿袜子里不舒服。"
+        },
+        {
+          "id": "prophet-entry-1155",
+          "type": "LINE",
+          "content": "请把空的酸奶瓶用吸管吹气。"
+        },
+        {
+          "id": "prophet-entry-1156",
+          "type": "LINE",
+          "content": "某天清晨，你会听见远处的割草机声。"
+        },
+        {
+          "id": "prophet-entry-1157",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果切成月牙形。"
+        },
+        {
+          "id": "prophet-entry-1158",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在追逐自己的影子。"
+        },
+        {
+          "id": "prophet-entry-1159",
+          "type": "LINE",
+          "content": "请把旧衣服的袖口卷起来。"
+        },
+        {
+          "id": "prophet-entry-1160",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是羽毛的床上，越陷越深。"
+        },
+        {
+          "id": "prophet-entry-1161",
+          "type": "LINE",
+          "content": "请在洗澡时，用洗发水在墙上画一个圈。"
+        },
+        {
+          "id": "prophet-entry-1162",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手腕在戴手链的地方有痕迹。"
+        },
+        {
+          "id": "prophet-entry-1163",
+          "type": "LINE",
+          "content": "请把吃剩的果核埋进土里，但不浇水。"
+        },
+        {
+          "id": "prophet-entry-1164",
+          "type": "LINE",
+          "content": "某天你会突然想给一个空瓶子装上彩色的沙子。"
+        },
+        {
+          "id": "prophet-entry-1165",
+          "type": "LINE",
+          "content": "请在煮饺子时，用锅盖焖一下。"
+        },
+        {
+          "id": "prophet-entry-1166",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个抱着一盆花的人。"
+        },
+        {
+          "id": "prophet-entry-1167",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片设为锁屏。"
+        },
+        {
+          "id": "prophet-entry-1168",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏掉的遥控器说“你按键没反应了”。"
+        },
+        {
+          "id": "prophet-entry-1169",
+          "type": "LINE",
+          "content": "请在睡前把枕头边的书合上，倒扣。"
+        },
+        {
+          "id": "prophet-entry-1170",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能更清楚地看彩虹。"
+        },
+        {
+          "id": "prophet-entry-1171",
+          "type": "LINE",
+          "content": "请把空的饮料瓶用脚踩扁。"
+        },
+        {
+          "id": "prophet-entry-1172",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是纸的房间里，纸在飞。"
+        },
+        {
+          "id": "prophet-entry-1173",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把香蕉冻一下。"
+        },
+        {
+          "id": "prophet-entry-1174",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩弹珠。"
+        },
+        {
+          "id": "prophet-entry-1175",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个字涂黑。"
+        },
+        {
+          "id": "prophet-entry-1176",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电脑说“你风扇很响”。"
+        },
+        {
+          "id": "prophet-entry-1177",
+          "type": "LINE",
+          "content": "请在出门前，把家里的窗户关上一半。"
+        },
+        {
+          "id": "prophet-entry-1178",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在早晨有薄荷味。"
+        },
+        {
+          "id": "prophet-entry-1179",
+          "type": "LINE",
+          "content": "请把空的果冻盒当小垃圾桶。"
+        },
+        {
+          "id": "prophet-entry-1180",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟在窗外啄玻璃三下。"
+        },
+        {
+          "id": "prophet-entry-1181",
+          "type": "LINE",
+          "content": "请在吃薯条时，把薯条竖着放。"
+        },
+        {
+          "id": "prophet-entry-1182",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在草地上挖洞。"
+        },
+        {
+          "id": "prophet-entry-1183",
+          "type": "LINE",
+          "content": "请把手机里的一个旧短信设为置顶。"
+        },
+        {
+          "id": "prophet-entry-1184",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是钟表的房间里，钟摆发出不同声音。"
+        },
+        {
+          "id": "prophet-entry-1185",
+          "type": "LINE",
+          "content": "请在洗手后，用毛巾把手指一根根擦干。"
+        },
+        {
+          "id": "prophet-entry-1186",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾头在沙子里更灵活。"
+        },
+        {
+          "id": "prophet-entry-1187",
+          "type": "LINE",
+          "content": "请把空的洗发水瓶装满水。"
+        },
+        {
+          "id": "prophet-entry-1188",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙挂一串风铃。"
+        },
+        {
+          "id": "prophet-entry-1189",
+          "type": "LINE",
+          "content": "请在煮汤时，加一点胡椒粉。"
+        },
+        {
+          "id": "prophet-entry-1190",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖气球的人，气球是星星形状。"
+        },
+        {
+          "id": "prophet-entry-1191",
+          "type": "LINE",
+          "content": "请把旧书里的一页撕下来折成纸飞机。"
+        },
+        {
+          "id": "prophet-entry-1192",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏路灯说“你灯罩里有只飞蛾”。"
+        },
+        {
+          "id": "prophet-entry-1193",
+          "type": "LINE",
+          "content": "请在睡前把窗帘拉上，让房间全黑。"
+        },
+        {
+          "id": "prophet-entry-1194",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在月光下会跳舞。"
+        },
+        {
+          "id": "prophet-entry-1195",
+          "type": "LINE",
+          "content": "请把吃剩的饼干碎屑倒在蚂蚁窝旁。"
+        },
+        {
+          "id": "prophet-entry-1196",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是枕头的房间里，没有门。"
+        },
+        {
+          "id": "prophet-entry-1197",
+          "type": "LINE",
+          "content": "请在穿鞋时，把鞋带塞进鞋里。"
+        },
+        {
+          "id": "prophet-entry-1198",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在骑小马。"
+        },
+        {
+          "id": "prophet-entry-1199",
+          "type": "LINE",
+          "content": "请把手机里的一个旧游戏打开玩一局。"
+        },
+        {
+          "id": "prophet-entry-1200",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧收音机说“你的天线断了”。"
+        },
+        {
+          "id": "prophet-entry-1201",
+          "type": "LINE",
+          "content": "请在出门前，把门上的猫眼擦一下。"
+        },
+        {
+          "id": "prophet-entry-1202",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在摸猫时更轻柔。"
+        },
+        {
+          "id": "prophet-entry-1203",
+          "type": "LINE",
+          "content": "请把空的牛奶盒剪开做成小卡片。"
+        },
+        {
+          "id": "prophet-entry-1204",
+          "type": "LINE",
+          "content": "某天清晨，你会听见外面的雪落声很轻。"
+        },
+        {
+          "id": "prophet-entry-1205",
+          "type": "LINE",
+          "content": "请在吃面条时，用嘴把面条吸进去。"
+        },
+        {
+          "id": "prophet-entry-1206",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在阳光下舔自己的影子。"
+        },
+        {
+          "id": "prophet-entry-1207",
+          "type": "LINE",
+          "content": "请把旧衣服的破洞用线缝成星星。"
+        },
+        {
+          "id": "prophet-entry-1208",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是蜡烛的房间里，吹灭一根。"
+        },
+        {
+          "id": "prophet-entry-1209",
+          "type": "LINE",
+          "content": "请在洗澡时，用浴球搓出很多泡。"
+        },
+        {
+          "id": "prophet-entry-1210",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的膝盖在上楼梯时更有力。"
+        },
+        {
+          "id": "prophet-entry-1211",
+          "type": "LINE",
+          "content": "请把吃剩的苹果皮切成细条。"
+        },
+        {
+          "id": "prophet-entry-1212",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆绿萝浇一点茶水。"
+        },
+        {
+          "id": "prophet-entry-1213",
+          "type": "LINE",
+          "content": "请在煮米饭时，放几颗绿豆。"
+        },
+        {
+          "id": "prophet-entry-1214",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个用毛笔写字的人。"
+        },
+        {
+          "id": "prophet-entry-1215",
+          "type": "LINE",
+          "content": "请把手机里的一个旧提醒设为重复。"
+        },
+        {
+          "id": "prophet-entry-1216",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧风扇说“你的转头卡住了”。"
+        },
+        {
+          "id": "prophet-entry-1217",
+          "type": "LINE",
+          "content": "请在睡前把被角往上拉一点。"
+        },
+        {
+          "id": "prophet-entry-1218",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能适应更亮的光。"
+        },
+        {
+          "id": "prophet-entry-1219",
+          "type": "LINE",
+          "content": "请把空的矿泉水瓶剪成两半。"
+        },
+        {
+          "id": "prophet-entry-1220",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是气球的水池里。"
+        },
+        {
+          "id": "prophet-entry-1221",
+          "type": "LINE",
+          "content": "请在吃橙子时，把橙子皮剥成螺旋形。"
+        },
+        {
+          "id": "prophet-entry-1222",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在放风筝，风筝飞得很低。"
+        },
+        {
+          "id": "prophet-entry-1223",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个图片剪下来贴墙上。"
+        },
+        {
+          "id": "prophet-entry-1224",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电话说“你拨号盘很复古”。"
+        },
+        {
+          "id": "prophet-entry-1225",
+          "type": "LINE",
+          "content": "请在出门前，把包里的硬币拿出来一个。"
+        },
+        {
+          "id": "prophet-entry-1226",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在木桥上走时更响。"
+        },
+        {
+          "id": "prophet-entry-1227",
+          "type": "LINE",
+          "content": "请把吃剩的鸡翅骨头摆成飞机。"
+        },
+        {
+          "id": "prophet-entry-1228",
+          "type": "LINE",
+          "content": "某天清晨，你会听见雨点打在伞上的声音。"
+        },
+        {
+          "id": "prophet-entry-1229",
+          "type": "LINE",
+          "content": "请在吃西瓜时，把西瓜汁滴在衣服上，然后洗掉。"
+        },
+        {
+          "id": "prophet-entry-1230",
+          "type": "LINE",
+          "content": "下周二，你会看见一只鸟在河边照镜子。"
+        },
+        {
+          "id": "prophet-entry-1231",
+          "type": "LINE",
+          "content": "请把手机里的一个旧联系人备注成“风”。"
+        },
+        {
+          "id": "prophet-entry-1232",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是门的走廊里，每扇门都关着。"
+        },
+        {
+          "id": "prophet-entry-1233",
+          "type": "LINE",
+          "content": "请在洗手时，用肥皂在手上画一只眼睛。"
+        },
+        {
+          "id": "prophet-entry-1234",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在弹琴时能跨八度。"
+        },
+        {
+          "id": "prophet-entry-1235",
+          "type": "LINE",
+          "content": "请把空的酸奶盒叠成塔。"
+        },
+        {
+          "id": "prophet-entry-1236",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙挂一块布。"
+        },
+        {
+          "id": "prophet-entry-1237",
+          "type": "LINE",
+          "content": "请在煮咖啡时，用两个杯子倒来倒去。"
+        },
+        {
+          "id": "prophet-entry-1238",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖花的人把一朵花插在耳朵上。"
+        },
+        {
+          "id": "prophet-entry-1239",
+          "type": "LINE",
+          "content": "请把旧书里的一页折成三角形。"
+        },
+        {
+          "id": "prophet-entry-1240",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你的光很集中”。"
+        },
+        {
+          "id": "prophet-entry-1241",
+          "type": "LINE",
+          "content": "请在睡前把头发扎成两个小揪揪。"
+        },
+        {
+          "id": "prophet-entry-1242",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在雨天更湿。"
+        },
+        {
+          "id": "prophet-entry-1243",
+          "type": "LINE",
+          "content": "请把吃剩的面条用筷子搭成桥。"
+        },
+        {
+          "id": "prophet-entry-1244",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是沙子的房间里，沙在流动。"
+        },
+        {
+          "id": "prophet-entry-1245",
+          "type": "LINE",
+          "content": "请在乘公交时，坐在靠门的位置。"
+        },
+        {
+          "id": "prophet-entry-1246",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在吃手指。"
+        },
+        {
+          "id": "prophet-entry-1247",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片换成黑白色。"
+        },
+        {
+          "id": "prophet-entry-1248",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏了的收音机说“你还能发出杂音”。"
+        },
+        {
+          "id": "prophet-entry-1249",
+          "type": "LINE",
+          "content": "请在出门前，把鞋带系成单边。"
+        },
+        {
+          "id": "prophet-entry-1250",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚后跟在沙滩上更沉。"
+        },
+        {
+          "id": "prophet-entry-1251",
+          "type": "LINE",
+          "content": "请把空的饮料瓶灌满沙子。"
+        },
+        {
+          "id": "prophet-entry-1252",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟在窗外跳来跳去。"
+        },
+        {
+          "id": "prophet-entry-1253",
+          "type": "LINE",
+          "content": "请在吃薯条时，用两根薯条当筷子。"
+        },
+        {
+          "id": "prophet-entry-1254",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在箱子里躲猫猫。"
+        },
+        {
+          "id": "prophet-entry-1255",
+          "type": "LINE",
+          "content": "请把旧衣服上的一个口袋撕下来。"
+        },
+        {
+          "id": "prophet-entry-1256",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是绳结的房间里。"
+        },
+        {
+          "id": "prophet-entry-1257",
+          "type": "LINE",
+          "content": "请在洗澡时，用沐浴露搓出手掌大的泡。"
+        },
+        {
+          "id": "prophet-entry-1258",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛在灯光下更亮。"
+        },
+        {
+          "id": "prophet-entry-1259",
+          "type": "LINE",
+          "content": "请把吃剩的葡萄皮放在纸巾上。"
+        },
+        {
+          "id": "prophet-entry-1260",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆花浇一点苏打水。"
+        },
+        {
+          "id": "prophet-entry-1261",
+          "type": "LINE",
+          "content": "请在煮饺子时，用筷子夹一个饺子看看熟没。"
+        },
+        {
+          "id": "prophet-entry-1262",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个穿着拖鞋的人。"
+        },
+        {
+          "id": "prophet-entry-1263",
+          "type": "LINE",
+          "content": "请把手机里的一个旧音乐设为闹钟。"
+        },
+        {
+          "id": "prophet-entry-1264",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电视说“你屏幕划了”。"
+        },
+        {
+          "id": "prophet-entry-1265",
+          "type": "LINE",
+          "content": "请在睡前把床上的玩偶翻个面。"
+        },
+        {
+          "id": "prophet-entry-1266",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在冷风里更红。"
+        },
+        {
+          "id": "prophet-entry-1267",
+          "type": "LINE",
+          "content": "请把空的洗衣液瓶装满水摇晃。"
+        },
+        {
+          "id": "prophet-entry-1268",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是羽毛的房间里，羽毛在飘。"
+        },
+        {
+          "id": "prophet-entry-1269",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把香蕉切成小段。"
+        },
+        {
+          "id": "prophet-entry-1270",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩滑板车。"
+        },
+        {
+          "id": "prophet-entry-1271",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个标题改成自己的名字。"
+        },
+        {
+          "id": "prophet-entry-1272",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏声控灯说“晚安”。"
+        },
+        {
+          "id": "prophet-entry-1273",
+          "type": "LINE",
+          "content": "请在出门前，把家里的灯开一盏。"
+        },
+        {
+          "id": "prophet-entry-1274",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在树影下会碎。"
+        },
+        {
+          "id": "prophet-entry-1275",
+          "type": "LINE",
+          "content": "请把吃剩的虾壳拼成蝴蝶。"
+        },
+        {
+          "id": "prophet-entry-1276",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的心跳和秒针一致。"
+        },
+        {
+          "id": "prophet-entry-1277",
+          "type": "LINE",
+          "content": "请在吃面条时，把面条用剪刀剪短。"
+        },
+        {
+          "id": "prophet-entry-1278",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在追一辆摩托车。"
+        },
+        {
+          "id": "prophet-entry-1279",
+          "type": "LINE",
+          "content": "请把手机里的一个旧联系人删除后加回。"
+        },
+        {
+          "id": "prophet-entry-1280",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是灯泡的房间里，灯泡是水果味。"
+        },
+        {
+          "id": "prophet-entry-1281",
+          "type": "LINE",
+          "content": "请在洗澡时，用冷水冲一下脸。"
+        },
+        {
+          "id": "prophet-entry-1282",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾在海水里更凉。"
+        },
+        {
+          "id": "prophet-entry-1283",
+          "type": "LINE",
+          "content": "请把空的果酱瓶装满水，放一片叶子。"
+        },
+        {
+          "id": "prophet-entry-1284",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙画一道线。"
+        },
+        {
+          "id": "prophet-entry-1285",
+          "type": "LINE",
+          "content": "请在煮咖啡时，不用滤纸，直接沉淀。"
+        },
+        {
+          "id": "prophet-entry-1286",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖水果的人把烂水果挑出来。"
+        },
+        {
+          "id": "prophet-entry-1287",
+          "type": "LINE",
+          "content": "请把旧书里的书签换一个位置。"
+        },
+        {
+          "id": "prophet-entry-1288",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧缝纫机说“你线轴空了”。"
+        },
+        {
+          "id": "prophet-entry-1289",
+          "type": "LINE",
+          "content": "请在睡前把拖鞋套在脚上走两步。"
+        },
+        {
+          "id": "prophet-entry-1290",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在空调房里更干。"
+        },
+        {
+          "id": "prophet-entry-1291",
+          "type": "LINE",
+          "content": "请把吃剩的鱼骨头用纸包好。"
+        },
+        {
+          "id": "prophet-entry-1292",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是纸箱的房间里，纸箱会动。"
+        },
+        {
+          "id": "prophet-entry-1293",
+          "type": "LINE",
+          "content": "请在乘公交时，把硬币在手里转圈。"
+        },
+        {
+          "id": "prophet-entry-1294",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在吃冰淇淋，滴到手上。"
+        },
+        {
+          "id": "prophet-entry-1295",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片放大看细节。"
+        },
+        {
+          "id": "prophet-entry-1296",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏路灯说“你灯柱上有贴纸”。"
+        },
+        {
+          "id": "prophet-entry-1297",
+          "type": "LINE",
+          "content": "请在出门前，把鞋带塞进鞋垫下。"
+        },
+        {
+          "id": "prophet-entry-1298",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在剥橘子时更香。"
+        },
+        {
+          "id": "prophet-entry-1299",
+          "type": "LINE",
+          "content": "请把空的酸奶盒用热水烫一下。"
+        },
+        {
+          "id": "prophet-entry-1300",
+          "type": "LINE",
+          "content": "某天清晨，你会听见外面的鸟在合唱。"
+        },
+        {
+          "id": "prophet-entry-1301",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果切成小块后摆成圆形。"
+        },
+        {
+          "id": "prophet-entry-1302",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在窗台上看雨。"
+        },
+        {
+          "id": "prophet-entry-1303",
+          "type": "LINE",
+          "content": "请把旧衣服的纽扣用线穿起来。"
+        },
+        {
+          "id": "prophet-entry-1304",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是书架的房间里，书倒着放。"
+        },
+        {
+          "id": "prophet-entry-1305",
+          "type": "LINE",
+          "content": "请在洗澡时，用洗发水在腿上画个笑脸。"
+        },
+        {
+          "id": "prophet-entry-1306",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看清叶脉。"
+        },
+        {
+          "id": "prophet-entry-1307",
+          "type": "LINE",
+          "content": "请把吃剩的饼干屑撒在花盆里。"
+        },
+        {
+          "id": "prophet-entry-1308",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙贴上旧车票。"
+        },
+        {
+          "id": "prophet-entry-1309",
+          "type": "LINE",
+          "content": "请在煮汤时，用小火炖到冒小泡。"
+        },
+        {
+          "id": "prophet-entry-1310",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个抱着吉他的年轻人。"
+        },
+        {
+          "id": "prophet-entry-1311",
+          "type": "LINE",
+          "content": "请把手机里的一个旧闹钟设成振动。"
+        },
+        {
+          "id": "prophet-entry-1312",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏掉的打印机说“你卡纸了”。"
+        },
+        {
+          "id": "prophet-entry-1313",
+          "type": "LINE",
+          "content": "请在睡前把窗帘拉上，用手电筒照一下。"
+        },
+        {
+          "id": "prophet-entry-1314",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在热水里能展开。"
+        },
+        {
+          "id": "prophet-entry-1315",
+          "type": "LINE",
+          "content": "请把空的牛奶盒做成小房子。"
+        },
+        {
+          "id": "prophet-entry-1316",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是信封的房间里，信封在飞。"
+        },
+        {
+          "id": "prophet-entry-1317",
+          "type": "LINE",
+          "content": "请在吃西瓜时，用勺子挖成球。"
+        },
+        {
+          "id": "prophet-entry-1318",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩拼图，拼错一块。"
+        },
+        {
+          "id": "prophet-entry-1319",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个字剪下来贴在手账上。"
+        },
+        {
+          "id": "prophet-entry-1320",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台老式电话说“你拨号盘转不动了”。"
+        },
+        {
+          "id": "prophet-entry-1321",
+          "type": "LINE",
+          "content": "请在出门前，把门把手上的灰擦掉。"
+        },
+        {
+          "id": "prophet-entry-1322",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在摸旧墙时有温度。"
+        },
+        {
+          "id": "prophet-entry-1323",
+          "type": "LINE",
+          "content": "请把吃剩的蛋糕用盘子盖好。"
+        },
+        {
+          "id": "prophet-entry-1324",
+          "type": "LINE",
+          "content": "某天清晨，你会听见远处的火车汽笛。"
+        },
+        {
+          "id": "prophet-entry-1325",
+          "type": "LINE",
+          "content": "请在吃薯条时，把薯条蘸一点冰淇淋。"
+        },
+        {
+          "id": "prophet-entry-1326",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在公园里追鸭子。"
+        },
+        {
+          "id": "prophet-entry-1327",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片设为私密。"
+        },
+        {
+          "id": "prophet-entry-1328",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是钟的房间里，钟表逆时针转。"
+        },
+        {
+          "id": "prophet-entry-1329",
+          "type": "LINE",
+          "content": "请在洗澡时，用浴球擦背。"
+        },
+        {
+          "id": "prophet-entry-1330",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在山上更轻。"
+        },
+        {
+          "id": "prophet-entry-1331",
+          "type": "LINE",
+          "content": "请把空的果汁瓶装满彩色的水。"
+        },
+        {
+          "id": "prophet-entry-1332",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆绿植擦叶子。"
+        },
+        {
+          "id": "prophet-entry-1333",
+          "type": "LINE",
+          "content": "请在煮鸡蛋时，用勺子轻轻敲。"
+        },
+        {
+          "id": "prophet-entry-1334",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖花的人把花摆成心形。"
+        },
+        {
+          "id": "prophet-entry-1335",
+          "type": "LINE",
+          "content": "请把旧书里的笔记擦掉一点。"
+        },
+        {
+          "id": "prophet-entry-1336",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你的光有点黄”。"
+        },
+        {
+          "id": "prophet-entry-1337",
+          "type": "LINE",
+          "content": "请在睡前把床单的褶皱拍平。"
+        },
+        {
+          "id": "prophet-entry-1338",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛在黑暗里能看见轮廓。"
+        },
+        {
+          "id": "prophet-entry-1339",
+          "type": "LINE",
+          "content": "请把吃剩的果皮晒干后收起来。"
+        },
+        {
+          "id": "prophet-entry-1340",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是水管的房间里，水管在滴水。"
+        },
+        {
+          "id": "prophet-entry-1341",
+          "type": "LINE",
+          "content": "请在乘电梯时，用膝盖顶一下墙。"
+        },
+        {
+          "id": "prophet-entry-1342",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩遥控飞机。"
+        },
+        {
+          "id": "prophet-entry-1343",
+          "type": "LINE",
+          "content": "请把手机里的一个旧联系人备注成“树”。"
+        },
+        {
+          "id": "prophet-entry-1344",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电扇说“你的叶片有灰”。"
+        },
+        {
+          "id": "prophet-entry-1345",
+          "type": "LINE",
+          "content": "请在出门前，把家里的花浇一点水。"
+        },
+        {
+          "id": "prophet-entry-1346",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾在冬天更易麻木。"
+        },
+        {
+          "id": "prophet-entry-1347",
+          "type": "LINE",
+          "content": "请把空的洗发水瓶装满水后倒掉。"
+        },
+        {
+          "id": "prophet-entry-1348",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟在窗外叫得很急。"
+        },
+        {
+          "id": "prophet-entry-1349",
+          "type": "LINE",
+          "content": "请在吃面条时，用筷子夹住面条的另一端。"
+        },
+        {
+          "id": "prophet-entry-1350",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在草丛里埋伏。"
+        },
+        {
+          "id": "prophet-entry-1351",
+          "type": "LINE",
+          "content": "请把旧衣服的破洞用补丁贴成月亮。"
+        },
+        {
+          "id": "prophet-entry-1352",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是丝带的房间里，丝带缠住脚。"
+        },
+        {
+          "id": "prophet-entry-1353",
+          "type": "LINE",
+          "content": "请在洗手后，用湿手在脸上拍两下。"
+        },
+        {
+          "id": "prophet-entry-1354",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在黄昏时长到街角。"
+        },
+        {
+          "id": "prophet-entry-1355",
+          "type": "LINE",
+          "content": "请把吃剩的玉米棒排成一行。"
+        },
+        {
+          "id": "prophet-entry-1356",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙挂一串灯。"
+        },
+        {
+          "id": "prophet-entry-1357",
+          "type": "LINE",
+          "content": "请在煮咖啡时，加一点肉桂粉。"
+        },
+        {
+          "id": "prophet-entry-1358",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个用平板画画的人。"
+        },
+        {
+          "id": "prophet-entry-1359",
+          "type": "LINE",
+          "content": "请把手机里的一个旧视频静音播放。"
+        },
+        {
+          "id": "prophet-entry-1360",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧冰箱说“你的灯还能亮”。"
+        },
+        {
+          "id": "prophet-entry-1361",
+          "type": "LINE",
+          "content": "请在睡前把窗帘拉开，看路灯照进来。"
+        },
+        {
+          "id": "prophet-entry-1362",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在冷天能看见白气。"
+        },
+        {
+          "id": "prophet-entry-1363",
+          "type": "LINE",
+          "content": "请把吃剩的葡萄皮用牙签串成串。"
+        },
+        {
+          "id": "prophet-entry-1364",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是玻璃的房子里，玻璃在反光。"
+        },
+        {
+          "id": "prophet-entry-1365",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把香蕉切成两半，一半冷冻。"
+        },
+        {
+          "id": "prophet-entry-1366",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩水枪。"
+        },
+        {
+          "id": "prophet-entry-1367",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个广告圈起来。"
+        },
+        {
+          "id": "prophet-entry-1368",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏坏了的路灯说“你该换了”。"
+        },
+        {
+          "id": "prophet-entry-1369",
+          "type": "LINE",
+          "content": "请在出门前，把鞋里的石子倒出来。"
+        },
+        {
+          "id": "prophet-entry-1370",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在摸键盘时更轻。"
+        },
+        {
+          "id": "prophet-entry-1371",
+          "type": "LINE",
+          "content": "请把空的酸奶瓶用吸管吹哨。"
+        },
+        {
+          "id": "prophet-entry-1372",
+          "type": "LINE",
+          "content": "某天清晨，你会听见外面的风铃在响。"
+        },
+        {
+          "id": "prophet-entry-1373",
+          "type": "LINE",
+          "content": "请在吃薯片时，把薯片对半掰开。"
+        },
+        {
+          "id": "prophet-entry-1374",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在沙发上打哈欠。"
+        },
+        {
+          "id": "prophet-entry-1375",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片恢复成彩色。"
+        },
+        {
+          "id": "prophet-entry-1376",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是抽屉的房间里，抽屉里有不同的光。"
+        },
+        {
+          "id": "prophet-entry-1377",
+          "type": "LINE",
+          "content": "请在洗澡时，用洗发水在镜子上画云。"
+        },
+        {
+          "id": "prophet-entry-1378",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在草地上有露水。"
+        },
+        {
+          "id": "prophet-entry-1379",
+          "type": "LINE",
+          "content": "请把吃剩的苹果核埋进土里。"
+        },
+        {
+          "id": "prophet-entry-1380",
+          "type": "LINE",
+          "content": "某天你会突然想给一个空房间放一张床。"
+        },
+        {
+          "id": "prophet-entry-1381",
+          "type": "LINE",
+          "content": "请在煮汤时，加一点香菜。"
+        },
+        {
+          "id": "prophet-entry-1382",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖气球的人，气球是数字。"
+        },
+        {
+          "id": "prophet-entry-1383",
+          "type": "LINE",
+          "content": "请把旧书里的一页折成纸船。"
+        },
+        {
+          "id": "prophet-entry-1384",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电视说“你遥控器丢了”。"
+        },
+        {
+          "id": "prophet-entry-1385",
+          "type": "LINE",
+          "content": "请在睡前把被子翻过来盖。"
+        },
+        {
+          "id": "prophet-entry-1386",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看见很淡的星星。"
+        },
+        {
+          "id": "prophet-entry-1387",
+          "type": "LINE",
+          "content": "请把吃剩的披萨边折成小段。"
+        },
+        {
+          "id": "prophet-entry-1388",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是毛线的房间里，毛线缠成网。"
+        },
+        {
+          "id": "prophet-entry-1389",
+          "type": "LINE",
+          "content": "请在乘公交时，把座位让给一个不需要的人。"
+        },
+        {
+          "id": "prophet-entry-1390",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在学走路，摇摇晃晃。"
+        },
+        {
+          "id": "prophet-entry-1391",
+          "type": "LINE",
+          "content": "请把手机里的一个旧应用图标改成默认。"
+        },
+        {
+          "id": "prophet-entry-1392",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧收音机说“你还能收到短波”。"
+        },
+        {
+          "id": "prophet-entry-1393",
+          "type": "LINE",
+          "content": "请在出门前，把门口的鞋子摆齐。"
+        },
+        {
+          "id": "prophet-entry-1394",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在锻炼后更稳。"
+        },
+        {
+          "id": "prophet-entry-1395",
+          "type": "LINE",
+          "content": "请把空的牛奶盒压成片。"
+        },
+        {
+          "id": "prophet-entry-1396",
+          "type": "LINE",
+          "content": "某天清晨，你会听见雨点打在屋顶。"
+        },
+        {
+          "id": "prophet-entry-1397",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果皮削成波浪形。"
+        },
+        {
+          "id": "prophet-entry-1398",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在草地上晒太阳。"
+        },
+        {
+          "id": "prophet-entry-1399",
+          "type": "LINE",
+          "content": "请把旧衣服的线头全部剪掉。"
+        },
+        {
+          "id": "prophet-entry-1400",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是纸飞机的房间里，纸飞机在飞。"
+        },
+        {
+          "id": "prophet-entry-1401",
+          "type": "LINE",
+          "content": "请在洗手时，用肥皂在手腕上画一圈。"
+        },
+        {
+          "id": "prophet-entry-1402",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手指在剥蒜时更灵巧。"
+        },
+        {
+          "id": "prophet-entry-1403",
+          "type": "LINE",
+          "content": "请把吃剩的鸡蛋壳放回蛋盒。"
+        },
+        {
+          "id": "prophet-entry-1404",
+          "type": "LINE",
+          "content": "某天你会突然想给一盆仙人掌浇水。"
+        },
+        {
+          "id": "prophet-entry-1405",
+          "type": "LINE",
+          "content": "请在煮面时，用筷子挑一根面看软硬。"
+        },
+        {
+          "id": "prophet-entry-1406",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个用放大镜看书的人。"
+        },
+        {
+          "id": "prophet-entry-1407",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片设成动态壁纸。"
+        },
+        {
+          "id": "prophet-entry-1408",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏掉的钟说“你停在了昨天”。"
+        },
+        {
+          "id": "prophet-entry-1409",
+          "type": "LINE",
+          "content": "请在睡前把枕头压一压。"
+        },
+        {
+          "id": "prophet-entry-1410",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛在光线下更敏锐。"
+        },
+        {
+          "id": "prophet-entry-1411",
+          "type": "LINE",
+          "content": "请把吃剩的橘子皮放在阳光下晒。"
+        },
+        {
+          "id": "prophet-entry-1412",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是羽毛的房间里，羽毛变成鸟。"
+        },
+        {
+          "id": "prophet-entry-1413",
+          "type": "LINE",
+          "content": "请在吃薯条时，把薯条摆成字母。"
+        },
+        {
+          "id": "prophet-entry-1414",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在玩捉迷藏，藏得很明显。"
+        },
+        {
+          "id": "prophet-entry-1415",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个标题描红。"
+        },
+        {
+          "id": "prophet-entry-1416",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你的灯罩歪了”。"
+        },
+        {
+          "id": "prophet-entry-1417",
+          "type": "LINE",
+          "content": "请在出门前，把钥匙插进门锁转半圈。"
+        },
+        {
+          "id": "prophet-entry-1418",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在水泥地上更硬。"
+        },
+        {
+          "id": "prophet-entry-1419",
+          "type": "LINE",
+          "content": "请把空的饮料瓶装满沙子后倒掉。"
+        },
+        {
+          "id": "prophet-entry-1420",
+          "type": "LINE",
+          "content": "某天清晨，你会听见外面的鸟在学汽车声。"
+        },
+        {
+          "id": "prophet-entry-1421",
+          "type": "LINE",
+          "content": "请在吃面条时，用勺子把汤舀起来。"
+        },
+        {
+          "id": "prophet-entry-1422",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在花盆里打滚。"
+        },
+        {
+          "id": "prophet-entry-1423",
+          "type": "LINE",
+          "content": "请把手机里的一个旧短信设为私密。"
+        },
+        {
+          "id": "prophet-entry-1424",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是鞋带的房间里，鞋带在飘。"
+        },
+        {
+          "id": "prophet-entry-1425",
+          "type": "LINE",
+          "content": "请在洗澡时，用冷水冲一下后颈。"
+        },
+        {
+          "id": "prophet-entry-1426",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在早晨有青草味。"
+        },
+        {
+          "id": "prophet-entry-1427",
+          "type": "LINE",
+          "content": "请把吃剩的鸡骨头埋进花盆。"
+        },
+        {
+          "id": "prophet-entry-1428",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙钉一个钉子。"
+        },
+        {
+          "id": "prophet-entry-1429",
+          "type": "LINE",
+          "content": "请在煮咖啡时，用吸管喝。"
+        },
+        {
+          "id": "prophet-entry-1430",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖水果的人给你一个橘子。"
+        },
+        {
+          "id": "prophet-entry-1431",
+          "type": "LINE",
+          "content": "请把旧书里的折角还原。"
+        },
+        {
+          "id": "prophet-entry-1432",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧电脑说“你键盘有灰”。"
+        },
+        {
+          "id": "prophet-entry-1433",
+          "type": "LINE",
+          "content": "请在睡前把窗帘拉上，只留一个角。"
+        },
+        {
+          "id": "prophet-entry-1434",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在摸金属时更凉。"
+        },
+        {
+          "id": "prophet-entry-1435",
+          "type": "LINE",
+          "content": "请把吃剩的西瓜皮切成小块。"
+        },
+        {
+          "id": "prophet-entry-1436",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是纸盒的房间里，纸盒会说话。"
+        },
+        {
+          "id": "prophet-entry-1437",
+          "type": "LINE",
+          "content": "请在乘公交时，用手扶住前排座椅。"
+        },
+        {
+          "id": "prophet-entry-1438",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在吃棒棒糖。"
+        },
+        {
+          "id": "prophet-entry-1439",
+          "type": "LINE",
+          "content": "请把手机里的一个旧联系人备注成“海”。"
+        },
+        {
+          "id": "prophet-entry-1440",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏路灯说“你站在这里很久了”。"
+        },
+        {
+          "id": "prophet-entry-1441",
+          "type": "LINE",
+          "content": "请在出门前，把家里的窗帘全部拉开。"
+        },
+        {
+          "id": "prophet-entry-1442",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能看清很远的小字。"
+        },
+        {
+          "id": "prophet-entry-1443",
+          "type": "LINE",
+          "content": "请把吃剩的鱼骨用纸包成小包。"
+        },
+        {
+          "id": "prophet-entry-1444",
+          "type": "LINE",
+          "content": "某天清晨，你会听见自己的呼吸和窗外的风同步。"
+        },
+        {
+          "id": "prophet-entry-1445",
+          "type": "LINE",
+          "content": "请在吃苹果时，把苹果切成薄片。"
+        },
+        {
+          "id": "prophet-entry-1446",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在泥坑里打滚。"
+        },
+        {
+          "id": "prophet-entry-1447",
+          "type": "LINE",
+          "content": "请把旧衣服的袖子卷起来再放下。"
+        },
+        {
+          "id": "prophet-entry-1448",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是镜子的房间里，但镜子里没有自己。"
+        },
+        {
+          "id": "prophet-entry-1449",
+          "type": "LINE",
+          "content": "请在洗澡时，用沐浴露洗耳朵后面。"
+        },
+        {
+          "id": "prophet-entry-1450",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚趾在海水里能抓住沙。"
+        },
+        {
+          "id": "prophet-entry-1451",
+          "type": "LINE",
+          "content": "请把空的果酱瓶装满水，放一片薄荷。"
+        },
+        {
+          "id": "prophet-entry-1452",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙挂一幅地图。"
+        },
+        {
+          "id": "prophet-entry-1453",
+          "type": "LINE",
+          "content": "请在煮汤时，用碗盛一点先尝。"
+        },
+        {
+          "id": "prophet-entry-1454",
+          "type": "LINE",
+          "content": "下个月初，你会在地铁里看见一个拿着大提琴的人。"
+        },
+        {
+          "id": "prophet-entry-1455",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片加滤镜。"
+        },
+        {
+          "id": "prophet-entry-1456",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧风扇说“你转起来有灰尘味”。"
+        },
+        {
+          "id": "prophet-entry-1457",
+          "type": "LINE",
+          "content": "请在睡前把床头的灯调暗。"
+        },
+        {
+          "id": "prophet-entry-1458",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在密闭空间更闷。"
+        },
+        {
+          "id": "prophet-entry-1459",
+          "type": "LINE",
+          "content": "请把吃剩的饼干盒做成一个笔筒。"
+        },
+        {
+          "id": "prophet-entry-1460",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是羽毛的枕头里。"
+        },
+        {
+          "id": "prophet-entry-1461",
+          "type": "LINE",
+          "content": "请在吃香蕉时，把香蕉皮剥开后吃掉香蕉。"
+        },
+        {
+          "id": "prophet-entry-1462",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在放烟花棒。"
+        },
+        {
+          "id": "prophet-entry-1463",
+          "type": "LINE",
+          "content": "请把旧报纸上的一个图片剪成圆形。"
+        },
+        {
+          "id": "prophet-entry-1464",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台坏掉的电话说“你听筒很重”。"
+        },
+        {
+          "id": "prophet-entry-1465",
+          "type": "LINE",
+          "content": "请在出门前，把鞋带系成双蝴蝶结。"
+        },
+        {
+          "id": "prophet-entry-1466",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的手在热水里会皱。"
+        },
+        {
+          "id": "prophet-entry-1467",
+          "type": "LINE",
+          "content": "请把空的洗发水瓶拧紧盖子。"
+        },
+        {
+          "id": "prophet-entry-1468",
+          "type": "LINE",
+          "content": "某天清晨，你会听见外面的雨停后滴水声。"
+        },
+        {
+          "id": "prophet-entry-1469",
+          "type": "LINE",
+          "content": "请在吃薯条时，把薯条拼成五角星。"
+        },
+        {
+          "id": "prophet-entry-1470",
+          "type": "LINE",
+          "content": "下周二，你会看见一只猫在纸箱里磨爪子。"
+        },
+        {
+          "id": "prophet-entry-1471",
+          "type": "LINE",
+          "content": "请把手机里的一个旧应用清除缓存。"
+        },
+        {
+          "id": "prophet-entry-1472",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是信封的房间里，信封里是旧照片。"
+        },
+        {
+          "id": "prophet-entry-1473",
+          "type": "LINE",
+          "content": "请在洗手后，用湿手在镜子上画个笑脸。"
+        },
+        {
+          "id": "prophet-entry-1474",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的眼睛能适应水下。"
+        },
+        {
+          "id": "prophet-entry-1475",
+          "type": "LINE",
+          "content": "请把吃剩的蛋糕屑扫起来。"
+        },
+        {
+          "id": "prophet-entry-1476",
+          "type": "LINE",
+          "content": "某天你会突然想给一个空瓶子装满海沙。"
+        },
+        {
+          "id": "prophet-entry-1477",
+          "type": "LINE",
+          "content": "请在煮饺子时，用漏勺捞起一个吹吹。"
+        },
+        {
+          "id": "prophet-entry-1478",
+          "type": "LINE",
+          "content": "下个月初，你会看见一个卖花的人把花扎成花环。"
+        },
+        {
+          "id": "prophet-entry-1479",
+          "type": "LINE",
+          "content": "请把旧书里的一页撕下折成纸鹤。"
+        },
+        {
+          "id": "prophet-entry-1480",
+          "type": "LINE",
+          "content": "未来某天，你会对着一盏台灯说“你该擦擦了”。"
+        },
+        {
+          "id": "prophet-entry-1481",
+          "type": "LINE",
+          "content": "请在睡前把床单拉直。"
+        },
+        {
+          "id": "prophet-entry-1482",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的脚在雪地里更安静。"
+        },
+        {
+          "id": "prophet-entry-1483",
+          "type": "LINE",
+          "content": "请把吃剩的苹果皮用糖腌一下。"
+        },
+        {
+          "id": "prophet-entry-1484",
+          "type": "LINE",
+          "content": "某天夜里，你会梦见自己在一个全是水的房间里，水在发光。"
+        },
+        {
+          "id": "prophet-entry-1485",
+          "type": "LINE",
+          "content": "请在乘电梯时，用脚尖画一个圆。"
+        },
+        {
+          "id": "prophet-entry-1486",
+          "type": "LINE",
+          "content": "下周三，你会看见一个小孩在吃糖葫芦。"
+        },
+        {
+          "id": "prophet-entry-1487",
+          "type": "LINE",
+          "content": "请把手机里的一个旧照片导出。"
+        },
+        {
+          "id": "prophet-entry-1488",
+          "type": "LINE",
+          "content": "未来某天，你会对着一台旧收音机说“你声音很暖”。"
+        },
+        {
+          "id": "prophet-entry-1489",
+          "type": "LINE",
+          "content": "请在出门前，把包里的纸巾抽出一张。"
+        },
+        {
+          "id": "prophet-entry-1490",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的影子在路灯下有两个。"
+        },
+        {
+          "id": "prophet-entry-1491",
+          "type": "LINE",
+          "content": "请把吃剩的虾壳用线串起来。"
+        },
+        {
+          "id": "prophet-entry-1492",
+          "type": "LINE",
+          "content": "某天清晨，你会听见鸟在窗外啄木。"
+        },
+        {
+          "id": "prophet-entry-1493",
+          "type": "LINE",
+          "content": "请在吃面条时，把葱花挑出来。"
+        },
+        {
+          "id": "prophet-entry-1494",
+          "type": "LINE",
+          "content": "下周二，你会看见一只狗在追自己的尾巴，摔了一跤。"
+        },
+        {
+          "id": "prophet-entry-1495",
+          "type": "LINE",
+          "content": "请把旧衣服上的一个口袋缝上。"
+        },
+        {
+          "id": "prophet-entry-1496",
+          "type": "LINE",
+          "content": "未来某夜，你会梦见自己在一个全是球的房间里，球在弹跳。"
+        },
+        {
+          "id": "prophet-entry-1497",
+          "type": "LINE",
+          "content": "请在洗澡时，用洗发水在头上揉出很多泡。"
+        },
+        {
+          "id": "prophet-entry-1498",
+          "type": "LINE",
+          "content": "三日后，你会觉得自己的呼吸在跑步时更重。"
+        },
+        {
+          "id": "prophet-entry-1499",
+          "type": "LINE",
+          "content": "请把吃剩的果酱涂在面包上。"
+        },
+        {
+          "id": "prophet-entry-1500",
+          "type": "LINE",
+          "content": "某天你会突然想给一面墙贴满旧照片。"
+        }
+      ]
+    }
+  ]
+}
