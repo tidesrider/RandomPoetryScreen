@@ -1,6 +1,7 @@
-# 拾歌（Random Poetry Screen）
+# 拾歌/Random Poetry Screen
+**[English](README_EN.md), [中文](README.md)**
 
-一个纯本地、无服务端的安卓原生应用。打开应用时，以 Decryption Effect（解密动画）风格随机显示诗歌，占据手机屏幕，为用户在无意识地想要使用手机娱乐时，提供一个缓冲窗口。
+一个纯本地、无服务端的“类屏保”安卓原生应用。打开应用时，以 Decryption Effect（解密动画）风格随机显示诗歌，占据手机屏幕，为用户在无意识地想要使用手机娱乐时，提供一个缓冲窗口。
 
 ## 核心功能
 
@@ -86,4 +87,4 @@ app/src/main/java/online/dicemeow/dev_randompoetryscreen/
 
 ## 许可
 
-私有项目，未开源。
+MIT
